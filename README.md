@@ -1,4 +1,4 @@
-# Awesome-NeurIPS2021-Low-Level-Vision
+# Awesome-ECCV2022-Low-Level-Vision
 A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 ## Related collections for low-level vision
