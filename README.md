@@ -12,57 +12,59 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 ## Catalogue
 
-- [1.Image Restoration](#ImageRetoration)
+- [Image Restoration](#ImageRetoration)
   - [Burst Restoration](#BurstRestoration)
   - [Video Restoration](#VideoRestoration)
 
-- [2.Super Resolution](#SuperResolution)
+- [Super Resolution](#SuperResolution)
   - [Image Super Resolution](#ImageSuperResolution)
   - [Video Super Resolution](#VideoSuperResolution)
-- [3.Image Rescaling](#Rescaling)
+- [Image Rescaling](#Rescaling)
 
-- [4.Denoising](#Denoising)
+- [Denoising](#Denoising)
   - [Image Denoising](#ImageDenoising)
   - [Video Denoising](#VideoDenoising)
 
-- [5.Deblurring](#Deblurring)
+- [Deblurring](#Deblurring)
   - [Image Deblurring](#ImageDeblurring)
   - [Video Deblurring](#VideoDeblurring)
 
-- [6.Deraining](#Deraining)
+- [Image Decomposition](#Decomposition)
 
-- [7.Dehazing](#Dehazing)
+- [Deraining](#Deraining)
 
-- [8.Demosaicing](#Demosaicing)
+- [Dehazing](#Dehazing)
 
-- [9.HDR Imaging / Multi-Exposure Image Fusion](#HDR)
+- [Demosaicing](#Demosaicing)
 
-- [10.Frame Interpolation](#FrameInterpolation)
+- [HDR Imaging / Multi-Exposure Image Fusion](#HDR)
 
-- [11.Image Enhancement](#Enhancement)
+- [Frame Interpolation](#FrameInterpolation)
+
+- [Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
-- [12.Image Harmonization](#Harmonization)
+- [Image Harmonization](#Harmonization)
 
-- [13.Image Completion/Inpainting](#Inpainting)
+- [Image Completion/Inpainting](#Inpainting)
 
-- [14.Image Matting](#Matting)
+- [Image Matting](#Matting)
 
-- [15.Shadow Removal](#ShadowRemoval)
+- [Shadow Removal](#ShadowRemoval)
 
-- [16.Relighting](#Relighting)
+- [Relighting](#Relighting)
 
-- [17.Image Stitching](#Stitching)
+- [Image Stitching](#Stitching)
 
-- [18.Image Compression](#ImageCompression)
+- [Image Compression](#ImageCompression)
 
-- [19.Image Quality Assessment](#ImageQualityAssessment)
+- [Image Quality Assessment](#ImageQualityAssessment)
 
-- [20.Style Transfer](#StyleTransfer)
+- [Style Transfer](#StyleTransfer)
 
-- [21.Image Editing](#ImageEditing)
+- [Image Editing](#ImageEditing)
 
-- [22.Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
+- [Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
   - [Video Generation](#VideoGeneration)
 
 <!--
@@ -122,6 +124,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/JihyongOh/DeMFI
 - Tags: Joint Deblurring and Frame Interpolation
 
+<a name="Decomposition"></a>
+# Image Decomposition
+
+**Blind Image Decomposition**
+- Paper: https://arxiv.org/abs/2108.11364
+- Code: https://github.com/JunlinHan/BID
 
 <!--
 <a name="Deraining"></a>
