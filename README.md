@@ -1,9 +1,10 @@
 # Awesome-NeurIPS2021-Low-Level-Vision
-A Collection of Papers and Codes in NeurIPS2021 related to Low-Level Vision
+A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 ## Related collections for low-level vision
 - [CVPR2022-Low-Level-Vision](https://github.com/DarrenPan/CVPR2022-Low-Level-Vision)
 - [Awesome-AAAI2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-AAAI2022-Low-Level-Vision)
+- [Awesome-NeurIPS2021-Low-Level-Vision](https://github.com/DarrenPan/Awesome-NeurIPS2021-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
 - [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
@@ -68,12 +69,6 @@ A Collection of Papers and Codes in NeurIPS2021 related to Low-Level Vision
 # Image Restoration - 图像恢复
 
 
-
-**Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration**
-- Paper: https://aaai-2022.virtualchair.net/poster_aaai4252
-- Code: https://github.com/wyhuai/Panini-Net
-- Tags: Face Restoration
-
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
@@ -132,6 +127,11 @@ A Collection of Papers and Codes in NeurIPS2021 related to Low-Level Vision
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
+
+
+**Real-Time Intermediate Flow Estimation for Video Frame Interpolation**
+-[Paper](https://arxiv.org/abs/2011.06294) -[Code](https://github.com/hzwer/ECCV2022-RIFE) -Tags:
+
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
