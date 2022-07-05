@@ -48,9 +48,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - [Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
-<!--
 - [Image Harmonization](#Harmonization)
 
+<!--
 - [Image Completion/Inpainting](#Inpainting)
 
 - [Image Matting](#Matting)
@@ -63,15 +63,22 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 - [Image Compression](#ImageCompression)
 
+-->
+
 - [Image Quality Assessment](#ImageQualityAssessment)
 
+<!--
 - [Style Transfer](#StyleTransfer)
 
 - [Image Editing](#ImageEditing)
 
 - [Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
   - [Video Generation](#VideoGeneration)
+
 -->
+- [Others](#Others)
+
+
 <!--
 
 <a name="ImageRetoration"></a>
@@ -94,6 +101,15 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **ARM: Any-Time Super-Resolution Method**
 - Paper: https://arxiv.org/abs/2203.10812
 - Code: https://github.com/chenbong/ARM-Net
+
+**Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**
+- Paper: https://arxiv.org/abs/2203.03844
+- Code: https://github.com/zysxmu/DDTB
+
+**Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**
+- Paper: 
+- Code: https://github.com/palmdong/MMSR
+
 
 <!--
 
@@ -176,12 +192,15 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: 
 - Code: https://github.com/sczhou/LEDNet
 
-<!--
 
 <a name="Harmonization"></a>
-# Image Harmonization/Composition - 图像协调/图像合成
+# Image Harmonization - 图像协调
 
+**Harmonizer: Learning to Perform White-Box Image and Video Harmonization**
+- Paper: https://arxiv.org/abs/2207.01322
+- Code: https://github.com/ZHKKKe/Harmonizer
 
+<!--
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
 
@@ -207,12 +226,16 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
 
-
+-->
 
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
 
+**FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling**
+- Paper: https://github.com/TimothyHTimothy/FAST-VQA/blob/master/FAST_VQA_Paper.pdf
+- Code: https://github.com/TimothyHTimothy/FAST-VQA
 
+<!--
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
 
@@ -228,4 +251,23 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="VideoGeneration"></a>
 ## Video Generation
 
+-->
+
+<a name="Others"></a>
+# Others
+
+**Learning Local Implicit Fourier Representation for Image Warping**
+- Paper: https://ipl.dgist.ac.kr/LTEW.pdf
+- Code: https://github.com/jaewon-lee-b/ltew
+- Tags: Image Warping
+
+**Dress Code: High-Resolution Multi-Category Virtual Try-On**
+- Paper: https://arxiv.org/abs/2204.08532
+- Code: https://github.com/aimagelab/dress-code
+- Tags: Virtual Try-On
+
+<!--
+****
+- Paper: 
+- Code: 
 -->
