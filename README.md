@@ -285,6 +285,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/aimagelab/dress-code
 - Tags: Virtual Try-On
 
+**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**
+- Paper: https://arxiv.org/abs/2206.14180
+- Code: https://github.com/sangyun884/HR-VITON
+- Tags: Virtual Try-On
+
 <!--
 ****
 - Paper: 
