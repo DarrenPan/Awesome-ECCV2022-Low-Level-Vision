@@ -72,10 +72,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 - [Image Editing](#ImageEditing)
 
+-->
+
 - [Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
   - [Video Generation](#VideoGeneration)
 
--->
+
 - [Others](#Others)
 
 
@@ -181,6 +183,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2011.06294
 - Code: https://github.com/hzwer/ECCV2022-RIFE 
 
+**FILM: Frame Interpolation for Large Motion**
+- Paper: https://arxiv.org/abs/2202.04901
+- Code: https://github.com/google-research/frame-interpolation
+
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
@@ -243,15 +249,28 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
-
+-->
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
+**ManiFest: Manifold Deformation for Few-shot Image Translation**
+- Paper: https://arxiv.org/abs/2111.13681
+- Code: https://github.com/cv-rits/ManiFest
+
+**Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
+- Paper: https://arxiv.org/abs/2207.02196
+- Code: https://github.com/fudan-zvg/PDS
+
+**GAN Cocktail: mixing GANs without dataset access**
+- Paper: https://arxiv.org/abs/2106.03847
+- Code: https://github.com/omriav/GAN-cocktail
 
 <a name="VideoGeneration"></a>
 ## Video Generation
 
--->
+**Controllable Video Generation through Global and Local Motion Dynamics**
+- Paper: 
+- Code: https://github.com/Araachie/glass
 
 <a name="Others"></a>
 # Others
