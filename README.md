@@ -12,21 +12,22 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 ## Catalogue
 
-<!--
-
 - [Image Restoration](#ImageRetoration)
+<!--
   - [Burst Restoration](#BurstRestoration)
   - [Video Restoration](#VideoRestoration)
-
+-->
 - [Super Resolution](#SuperResolution)
   - [Image Super Resolution](#ImageSuperResolution)
   - [Video Super Resolution](#VideoSuperResolution)
+<!--
 - [Image Rescaling](#Rescaling)
 
+-->
 - [Denoising](#Denoising)
   - [Image Denoising](#ImageDenoising)
   - [Video Denoising](#VideoDenoising)
--->
+
 
 - [Deblurring](#Deblurring)
   - [Image Deblurring](#ImageDeblurring)
@@ -81,12 +82,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - [Others](#Others)
 
 
-<!--
-
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
+**Simple Baselines for Image Restoration**
+- Paper: https://arxiv.org/abs/2204.04676
+- Code: https://github.com/megvii-research/NAFNet
 
+<!--
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
@@ -122,7 +125,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放
 
-
+-->
 <a name="Denoising"></a>
 # Denoising - 去噪
 
@@ -132,7 +135,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="VideoDenoising"></a>
 ## Video Denoising
 
--->
+**Unidirectional Video Denoising by Mimicking Backward Recurrent Modules with Look-ahead Forward Ones**
+- Paper: 
+- Code: https://github.com/nagejacob/FloRNN
+
 
 <a name="Deblurring"></a>
 # Deblurring - 去模糊
@@ -238,7 +244,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 # Image Quality Assessment - 图像质量评价
 
 **FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling**
-- Paper: https://github.com/TimothyHTimothy/FAST-VQA/blob/master/FAST_VQA_Paper.pdf
+- Paper: https://arxiv.org/abs/2207.02595
 - Code: https://github.com/TimothyHTimothy/FAST-VQA
 
 <!--
@@ -265,8 +271,16 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2106.03847
 - Code: https://github.com/omriav/GAN-cocktail
 
+**Compositional Visual Generation with Composable Diffusion Models**
+- Paper: https://arxiv.org/abs/2206.01714
+- Code: https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch
+
 <a name="VideoGeneration"></a>
 ## Video Generation
+
+**Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer**
+- Paper: https://arxiv.org/abs/2204.03638
+- Code: https://github.com/SongweiGe/TATS
 
 **Controllable Video Generation through Global and Local Motion Dynamics**
 - Paper: 
