@@ -89,6 +89,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.04676
 - Code: https://github.com/megvii-research/NAFNet
 
+**D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration**
+- Paper: https://arxiv.org/abs/2207.03294
+- Code: https://github.com/zhaoyuzhi/D2HNet
+
+
 <!--
 <a name="BurstRestoration"></a>
 ## Burst Restoration
@@ -114,6 +119,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**
 - Paper: 
 - Code: https://github.com/palmdong/MMSR
+- Tags: Self-Supervised
+
+**Self-Supervised Learning for Real-World Super-Resolution from Dual Zoomed Observations**
+- Paper: https://arxiv.org/abs/2203.01325
+- Code: https://github.com/cszhilu1998/SelfDZSR
+- Tags: Self-Supervised
 
 
 <!--
@@ -274,6 +285,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Compositional Visual Generation with Composable Diffusion Models**
 - Paper: https://arxiv.org/abs/2206.01714
 - Code: https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch
+
+**VecGAN: Image-to-Image Translation with Interpretable Latent Directions**
+- Paper: https://arxiv.org/abs/2207.03411
+
 
 <a name="VideoGeneration"></a>
 ## Video Generation
