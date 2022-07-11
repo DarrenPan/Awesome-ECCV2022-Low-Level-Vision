@@ -51,13 +51,15 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 - [Image Harmonization](#Harmonization)
 
-<!--
 - [Image Completion/Inpainting](#Inpainting)
 
+<!--
 - [Image Matting](#Matting)
+-->
 
 - [Shadow Removal](#ShadowRemoval)
 
+<!--
 - [Relighting](#Relighting)
 
 - [Image Stitching](#Stitching)
@@ -159,6 +161,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
 
+**Spatio-Temporal Deformable Attention Network for Video Deblurring**
+- Paper:
+- Code: https://github.com/huicongzhang/STDAN
+
+
 **DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting**
 - Paper: https://arxiv.org/abs/2111.09985
 - Code: https://github.com/JihyongOh/DeMFI
@@ -223,20 +230,29 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.01322
 - Code: https://github.com/ZHKKKe/Harmonizer
 
-<!--
+
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
 
+**Learning Prior Feature and Attention Enhanced Image Inpainting**
+- Paper:
+- Code: https://github.com/ewrfcas/MAE-FAR
 
+<!--
 <a name="Matting"></a>
 # Image Matting - 图像抠图
-
+-->
 
 
 <a name="ShadowRemoval"></a>
 # Shadow Removal - 阴影消除
 
+**Style-Guided Shadow Removal**
+- Paper:
+- Code: https://github.com/jinwan1994/SG-ShadowNet
 
+
+<!--
 <a name="Relighting"></a>
 # Relighting
 
@@ -288,6 +304,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **VecGAN: Image-to-Image Translation with Interpretable Latent Directions**
 - Paper: https://arxiv.org/abs/2207.03411
+
+**Image-Based CLIP-Guided Essence Transfer**
+- Paper: https://arxiv.org/abs/2110.12427 
+- Code: https://github.com/hila-chefer/TargetCLIP
 
 
 <a name="VideoGeneration"></a>
