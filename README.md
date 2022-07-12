@@ -37,9 +37,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 <!--
 - [Deraining](#Deraining)
-
+-->
 - [Dehazing](#Dehazing)
-
+<!--
 - [Demosaicing](#Demosaicing)
 -->
 - [HDR Imaging / Multi-Exposure Image Fusion](#HDR)
@@ -60,7 +60,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - [Shadow Removal](#ShadowRemoval)
 
 <!--
-- [Relighting](#Relighting)
 
 - [Image Stitching](#Stitching)
 
@@ -128,6 +127,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/cszhilu1998/SelfDZSR
 - Tags: Self-Supervised
 
+**CADyQ : Contents-Aware Dynamic Quantization for Image Super Resolution**
+- Paper:
+- Code: https://github.com/Cheeun/CADyQ
 
 <!--
 
@@ -181,12 +183,20 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <!--
 <a name="Deraining"></a>
 # Deraining - 去雨
-
+-->
 
 <a name="Dehazing"></a>
 # Dehazing - 去雾
 
+**Frequency and Spatial Dual Guidance for Image Dehazing**
+- Paper: 
+- Code: https://github.com/yuhuUSTC/FSDGN 
 
+**Perceiving and Modeling Density is All You Need for Image Dehazing**
+- Paper: https://arxiv.org/abs/2111.09733
+- Code: https://github.com/Owen718/ECCV22-Perceiving-and-Modeling-Density-for-Image-Dehazing
+
+<!--
 <a name="Demosaicing"></a>
 # Demosaicing - 去马赛克
 
@@ -230,6 +240,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.01322
 - Code: https://github.com/ZHKKKe/Harmonizer
 
+**DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization**
+- Paper: https://arxiv.org/abs/2207.04788
+- Code: https://github.com/rockeyben/DCCF
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
@@ -253,8 +266,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 
 <!--
-<a name="Relighting"></a>
-# Relighting
 
 
 <a name="Stitching"></a>
@@ -274,10 +285,18 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.02595
 - Code: https://github.com/TimothyHTimothy/FAST-VQA
 
-<!--
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
 
+**CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer**
+- Paper: https://arxiv.org/abs/2207.04808
+- Code: https://github.com/JarrentWu1031/CCPL
+
+**Image-Based CLIP-Guided Essence Transfer**
+- Paper: https://arxiv.org/abs/2110.12427 
+- Code: https://github.com/hila-chefer/TargetCLIP
+
+<!--
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
@@ -305,11 +324,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **VecGAN: Image-to-Image Translation with Interpretable Latent Directions**
 - Paper: https://arxiv.org/abs/2207.03411
 
-**Image-Based CLIP-Guided Essence Transfer**
-- Paper: https://arxiv.org/abs/2110.12427 
-- Code: https://github.com/hila-chefer/TargetCLIP
-
-
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -320,6 +334,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Controllable Video Generation through Global and Local Motion Dynamics**
 - Paper: 
 - Code: https://github.com/Araachie/glass
+
+**Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**
+- Paper: https://arxiv.org/abs/2207.05049
+- Code: https://github.com/fast-vid2vid/fast-vid2vid
 
 <a name="Others"></a>
 # Others
@@ -338,6 +356,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2206.14180
 - Code: https://github.com/sangyun884/HR-VITON
 - Tags: Virtual Try-On
+
+**Outpainting by Queries**
+- Paper:
+- Code: https://github.com/Kaiseem/QueryOTR
+- Tags: Outpainting
+
+**Geometry-aware Single-image Full-body Human Relighting**
+- Paper: https://arxiv.org/abs/2207.04750
 
 <!--
 ****
