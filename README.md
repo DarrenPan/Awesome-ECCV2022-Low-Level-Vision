@@ -69,12 +69,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 - [Image Quality Assessment](#ImageQualityAssessment)
 
-<!--
 - [Style Transfer](#StyleTransfer)
 
 - [Image Editing](#ImageEditing)
-
--->
 
 - [Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
   - [Video Generation](#VideoGeneration)
@@ -94,6 +91,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.03294
 - Code: https://github.com/zhaoyuzhi/D2HNet
 
+**Seeing Far in the Dark with Patterned Flash**
+- Paper: 
+- Code: https://github.com/zhsun0357/Seeing-Far-in-the-Dark-with-Patterned-Flash
+
+**BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks**
+- Paper: 
+- Code: https://github.com/ExplainableML/BayesCap
 
 <!--
 <a name="BurstRestoration"></a>
@@ -296,18 +300,26 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2110.12427 
 - Code: https://github.com/hila-chefer/TargetCLIP
 
-<!--
-
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
--->
+**Context-Consistent Semantic Image Editing with Style-Preserved Modulation**
+- Paper: https://arxiv.org/abs/2207.06252
+- Code: https://github.com/WuyangLuo/SPMPGAN
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
 **ManiFest: Manifold Deformation for Few-shot Image Translation**
 - Paper: https://arxiv.org/abs/2111.13681
 - Code: https://github.com/cv-rits/ManiFest
+
+**VecGAN: Image-to-Image Translation with Interpretable Latent Directions**
+- Paper: https://arxiv.org/abs/2207.03411
+
+**DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation**
+- Paper: https://arxiv.org/abs/2207.06124
+- Code: https://github.com/Huage001/DynaST
 
 **Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
 - Paper: https://arxiv.org/abs/2207.02196
@@ -321,8 +333,17 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2206.01714
 - Code: https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch
 
-**VecGAN: Image-to-Image Translation with Interpretable Latent Directions**
-- Paper: https://arxiv.org/abs/2207.03411
+**Adaptive-Feature-Interpolation-for-Low-Shot-Image-Generation**
+- Paper: 
+- Code: https://github.com/dzld00/Adaptive-Feature-Interpolation-for-Low-Shot-Image-Generation
+
+**StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN**
+- Paper: https://arxiv.org/abs/2203.04036
+- Code: https://github.com/FeiiYin/StyleHEAT
+
+**WaveGAN: An Frequency-aware GAN for High-Fidelity Few-shot Image Generation**
+- Paper:
+- Code: https://github.com/kobeshegu/ECCV2022_WaveGAN
 
 <a name="VideoGeneration"></a>
 ## Video Generation
