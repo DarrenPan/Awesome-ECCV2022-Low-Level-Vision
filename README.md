@@ -53,6 +53,8 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 - [Image Completion/Inpainting](#Inpainting)
 
+- [Image Colorization](#Colorization)
+
 <!--
 - [Image Matting](#Matting)
 -->
@@ -96,7 +98,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/zhsun0357/Seeing-Far-in-the-Dark-with-Patterned-Flash
 
 **BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks**
-- Paper: 
+- Paper: https://arxiv.org/abs/2207.06873
 - Code: https://github.com/ExplainableML/BayesCap
 
 <!--
@@ -229,6 +231,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
 
+**Local Color Distributions Prior for Image Enhancement**
+- Paper:
+- Code: https://github.com/hywang99/LCDPNet
+
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
@@ -254,6 +260,17 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Learning Prior Feature and Attention Enhanced Image Inpainting**
 - Paper:
 - Code: https://github.com/ewrfcas/MAE-FAR
+
+<a name="Colorization"></a>
+# Image Colorization - 图像上色
+
+***Eliminating Gradient Conflict in Reference-based Line-art Colorization*
+- Paper: https://arxiv.org/abs/2207.06095
+- Code: https://github.com/kunkun0w0/SGA
+
+**Bridging the Domain Gap towards Generalization in Automatic Colorization**
+- Paper: 
+- Code: https://github.com/Lhyejin/DG-Colorization
 
 <!--
 <a name="Matting"></a>
@@ -334,7 +351,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch
 
 **Adaptive-Feature-Interpolation-for-Low-Shot-Image-Generation**
-- Paper: 
+- Paper: https://arxiv.org/abs/2112.02450
 - Code: https://github.com/dzld00/Adaptive-Feature-Interpolation-for-Low-Shot-Image-Generation
 
 **StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN**
@@ -344,6 +361,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **WaveGAN: An Frequency-aware GAN for High-Fidelity Few-shot Image Generation**
 - Paper:
 - Code: https://github.com/kobeshegu/ECCV2022_WaveGAN
+
+**Supervised Attribute Information Removal and Reconstruction for Image Manipulation**
+- Paper: https://arxiv.org/abs/2207.06555
+- Code: https://github.com/NannanLi999/AIRR
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -385,6 +406,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **Geometry-aware Single-image Full-body Human Relighting**
 - Paper: https://arxiv.org/abs/2207.04750
+
+
+
 
 <!--
 ****
