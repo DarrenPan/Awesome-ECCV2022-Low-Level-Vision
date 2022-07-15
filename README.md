@@ -264,7 +264,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="Colorization"></a>
 # Image Colorization - 图像上色
 
-***Eliminating Gradient Conflict in Reference-based Line-art Colorization*
+**Eliminating Gradient Conflict in Reference-based Line-art Colorization**
 - Paper: https://arxiv.org/abs/2207.06095
 - Code: https://github.com/kunkun0w0/SGA
 
