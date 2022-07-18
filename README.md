@@ -39,6 +39,8 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - [Deraining](#Deraining)
 -->
 - [Dehazing](#Dehazing)
+
+- [Demoireing](#Demoireing)
 <!--
 - [Demosaicing](#Demosaicing)
 -->
@@ -137,6 +139,15 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/Cheeun/CADyQ
 
+**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**
+- Paper: 
+- Code: https://github.com/csxmli2016/ReDegNet
+
+**Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images**
+- Paper:
+- Code: https://github.com/HaomingCai/SRPO
+
+
 <!--
 
 <a name="VideoSuperResolution"></a>
@@ -201,6 +212,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Perceiving and Modeling Density is All You Need for Image Dehazing**
 - Paper: https://arxiv.org/abs/2111.09733
 - Code: https://github.com/Owen718/ECCV22-Perceiving-and-Modeling-Density-for-Image-Dehazing
+
+<a name="Demoireing"></a>
+# Demoireing - 去摩尔纹
+
+**Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing**
+- Paper:
+- Code: https://github.com/XinYu-Andy/uhdm-page
 
 <!--
 <a name="Demosaicing"></a>
@@ -327,6 +345,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
+**TISE: A Toolbox for Text-to-Image Synthesis Evaluation**
+- Paper: https://arxiv.org/abs/2112.01398
+- Code: https://github.com/VinAIResearch/tise-toolbox
+
 **ManiFest: Manifold Deformation for Few-shot Image Translation**
 - Paper: https://arxiv.org/abs/2111.13681
 - Code: https://github.com/cv-rits/ManiFest
@@ -337,6 +359,18 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation**
 - Paper: https://arxiv.org/abs/2207.06124
 - Code: https://github.com/Huage001/DynaST
+
+**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**
+- Paper:
+- Code: https://github.com/Chenyu-Yang-2000/EleGANt
+
+**Vector Quantized Image-to-Image Translation**
+- Paper:
+- Code: https://github.com/cyj407/VQ-I2I
+
+**Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
+- Paper:
+- Code: https://github.com/Taeu/Style-Your-Hair
 
 **Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
 - Paper: https://arxiv.org/abs/2207.02196
@@ -359,7 +393,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/FeiiYin/StyleHEAT
 
 **WaveGAN: An Frequency-aware GAN for High-Fidelity Few-shot Image Generation**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.07288
 - Code: https://github.com/kobeshegu/ECCV2022_WaveGAN
 
 **Supervised Attribute Information Removal and Reconstruction for Image Manipulation**
@@ -400,7 +434,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Tags: Virtual Try-On
 
 **Outpainting by Queries**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.05312
 - Code: https://github.com/Kaiseem/QueryOTR
 - Tags: Outpainting
 
