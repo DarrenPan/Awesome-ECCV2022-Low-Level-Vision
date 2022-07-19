@@ -147,6 +147,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/HaomingCai/SRPO
 
+**Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution**
+- Paper:
+- Code: https://github.com/zhjy2016/SPLUT
+
+**KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution**
+- Paper:
+- Code: https://github.com/jiahong-fu/KXNet
 
 <!--
 
@@ -253,6 +260,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/hywang99/LCDPNet
 
+**SepLUT: Separable Image-adaptive Lookup Tables for Real-time Image Enhancement**
+- Paper: https://arxiv.org/abs/2207.08351
+
+**Neural Color Operators for Sequential Image Retouching**
+- Paper: https://arxiv.org/abs/2207.08080
+- Code: https://github.com/amberwangyili/neurop
+
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
@@ -342,6 +356,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.06252
 - Code: https://github.com/WuyangLuo/SPMPGAN
 
+**GAN with Multivariate Disentangling for Controllable Hair Editing**
+- Paper: https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/CtrlHair/CtrlHair.pdf
+- Code: https://github.com/XuyangGuo/CtrlHair
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
@@ -400,6 +418,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.06555
 - Code: https://github.com/NannanLi999/AIRR
 
+**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**
+- Paper: https://arxiv.org/abs/2207.08630
+- Code: https://github.com/iceli1007/FakeCLR
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -441,7 +463,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Geometry-aware Single-image Full-body Human Relighting**
 - Paper: https://arxiv.org/abs/2207.04750
 
-
+**Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal**
+- Paper: https://arxiv.org/abs/2207.08178
+- Code: https://github.com/thinwayliu/Watermark-Vaccine
+- Tags: Watermark Protection
 
 
 <!--
