@@ -64,12 +64,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - [Shadow Removal](#ShadowRemoval)
 
 <!--
-
 - [Image Stitching](#Stitching)
+-->
 
 - [Image Compression](#ImageCompression)
-
--->
 
 - [Image Quality Assessment](#ImageQualityAssessment)
 
@@ -126,7 +124,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/zysxmu/DDTB
 
 **Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**
-- Paper: 
+- Paper: https://arxiv.org/abs/2207.09156
 - Code: https://github.com/palmdong/MMSR
 - Tags: Self-Supervised
 
@@ -155,6 +153,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/jiahong-fu/KXNet
 
+**Image Super-Resolution with Deep Dictionary**
+- Paper: https://arxiv.org/abs/2207.09228
+- Code: https://github.com/shuntama/srdd
+
+**Efficient and Degradation-Adaptive Network for Real-World Image Super-Resolution**
+- Paper: http://www4.comp.polyu.edu.hk/~cslzhang/paper/ECCV2022_DASR.pdf
+- Code: https://github.com/csjliang/DASR
+
 <!--
 
 <a name="VideoSuperResolution"></a>
@@ -170,6 +176,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 <a name="ImageDenoising"></a>
 ## Image Denoising
+
+**Deep Semantic Statistics Matching (D2SM) Denoising Network**
+- Paper: https://arxiv.org/abs/2207.09302
+- Code: https://github.com/MKFMIKU/d2sm
 
 <a name="VideoDenoising"></a>
 ## Video Denoising
@@ -324,12 +334,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="Stitching"></a>
 # Image Stitching - 图像拼接
 
-
+-->
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
 
--->
+**Optimizing Image Compression via Joint Learning with Denoising**
+- Paper:
+- Code: https://github.com/felixcheng97/DenoiseCompression
 
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
@@ -422,6 +434,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.08630
 - Code: https://github.com/iceli1007/FakeCLR
 
+**Auto-regressive Image Synthesis with Integrated Quantization**
+- Paper:
+- Code: https://github.com/fnzhan/IQ-VAE
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -453,6 +469,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**
 - Paper: https://arxiv.org/abs/2206.14180
 - Code: https://github.com/sangyun884/HR-VITON
+- Tags: Virtual Try-On
+
+**Single Stage Virtual Try-on via Deformable Attention Flows**
+- Paper: https://arxiv.org/abs/2207.09161
 - Tags: Virtual Try-On
 
 **Outpainting by Queries**
