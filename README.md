@@ -101,6 +101,15 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.06873
 - Code: https://github.com/ExplainableML/BayesCap
 
+**Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model**
+- Paper: https://arxiv.org/abs/2207.10040
+- Tags: Atmospheric Turbulence Mitigation, Transformer
+
+**Modeling Mask Uncertainty in Hyperspectral Image Reconstruction**
+- Paper: https://arxiv.org/abs/2112.15362
+- Code: https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI
+- Tags: Hyperspectral Image Reconstruction
+
 <!--
 <a name="BurstRestoration"></a>
 ## Burst Restoration
@@ -160,6 +169,18 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Efficient and Degradation-Adaptive Network for Real-World Image Super-Resolution**
 - Paper: http://www4.comp.polyu.edu.hk/~cslzhang/paper/ECCV2022_DASR.pdf
 - Code: https://github.com/csjliang/DASR
+
+**Adaptive Patch Exiting for Scalable Single Image Super-Resolution**
+- Paper:
+- Code: https://github.com/littlepure2333/APE
+
+**Efficient Long-Range Attention Network for Image Super-resolution**
+- Paper: https://arxiv.org/abs/2203.06697
+- Code: https://github.com/xindongzhang/ELAN
+
+**D2C-SR: A Divergence to Convergence Approach for Real-World Image Super-Resolution**
+- Paper:
+- Code: https://github.com/megvii-research/D2C-SR
 
 <!--
 
@@ -234,7 +255,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 # Demoireing - 去摩尔纹
 
 **Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.09935
 - Code: https://github.com/XinYu-Andy/uhdm-page
 
 <!--
@@ -281,7 +302,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 ## Low-Light Image Enhancement
 
 **LEDNet: Joint Low-light Enhancement and Deblurring in the Dark**
-- Paper: 
+- Paper: https://arxiv.org/abs/2202.03373
 - Code: https://github.com/sczhou/LEDNet
 
 
@@ -302,6 +323,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Learning Prior Feature and Attention Enhanced Image Inpainting**
 - Paper:
 - Code: https://github.com/ewrfcas/MAE-FAR
+
+**Perceptual Artifacts Localization for Inpainting**
+- Paper:
+- Code: https://github.com/owenzlz/PAL4Inpaint
 
 <a name="Colorization"></a>
 # Image Colorization - 图像上色
@@ -343,12 +368,20 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/felixcheng97/DenoiseCompression
 
+**Implicit Neural Representations for Image Compression**
+- Paper: https://arxiv.org/abs/2112.04267
+- Code：https://github.com/YannickStruempler/inr_based_compression
+
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
 
 **FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling**
 - Paper: https://arxiv.org/abs/2207.02595
 - Code: https://github.com/TimothyHTimothy/FAST-VQA
+
+**Telepresence Video Quality Assessment**
+- Paper: https://arxiv.org/abs/2207.09956
+
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
@@ -371,6 +404,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **GAN with Multivariate Disentangling for Controllable Hair Editing**
 - Paper: https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/CtrlHair/CtrlHair.pdf
 - Code: https://github.com/XuyangGuo/CtrlHair
+
+**Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing**
+- Paper:
+- Code: https://github.com/1jsingh/paint2pix
+
+**High-fidelity GAN Inversion with Padding Space**
+- Paper: https://arxiv.org/abs/2203.11105
+- Code: https://github.com/EzioBy/padinv
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
@@ -438,6 +479,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/fnzhan/IQ-VAE
 
+**PixelFolder: An Efficient Progressive Pixel Synthesis Network for Image Generation**
+- Paper: https://arxiv.org/abs/2204.00833
+- Code: https://github.com/BlingHe/PixelFolder
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -487,6 +532,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.08178
 - Code: https://github.com/thinwayliu/Watermark-Vaccine
 - Tags: Watermark Protection
+
+**Efficient Meta-Tuning for Content-aware Neural Video Delivery**
+- Paper: https://arxiv.org/abs/2207.09691
+- Code: https://github.com/Neural-video-delivery/EMT-Pytorch-ECCV2022
+- Tags: Video Delivery
+
 
 
 <!--
