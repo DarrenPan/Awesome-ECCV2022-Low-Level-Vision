@@ -143,7 +143,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Tags: Self-Supervised
 
 **CADyQ : Contents-Aware Dynamic Quantization for Image Super Resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.10345
 - Code: https://github.com/Cheeun/CADyQ
 
 **From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**
@@ -215,11 +215,16 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="ImageDeblurring"></a>
 ## Image Deblurring
 
+**Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance**
+- Paper: https://arxiv.org/abs/2207.10123
+- Code: https://github.com/zzh-tech/Animation-from-Blur
+- Tags: recovering detailed motion from a single motion-blurred image
+
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
 
 **Spatio-Temporal Deformable Attention Network for Video Deblurring**
-- Paper:
+- Paper: 
 - Code: https://github.com/huicongzhang/STDAN
 
 
@@ -298,6 +303,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.08080
 - Code: https://github.com/amberwangyili/neurop
 
+**Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression**
+- Paper: https://arxiv.org/abs/2207.10564
+- Code: https://github.com/jinyeying/night-enhancement
+
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
@@ -327,6 +336,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Perceptual Artifacts Localization for Inpainting**
 - Paper:
 - Code: https://github.com/owenzlz/PAL4Inpaint
+
+## Video Inpainting
+
+**Error Compensation Framework for Flow-Guided Video Inpainting**
+- Paper: https://arxiv.org/abs/2207.10391
+
 
 <a name="Colorization"></a>
 # Image Colorization - 图像上色
@@ -432,12 +447,16 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Huage001/DynaST
 
 **EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.09840
 - Code: https://github.com/Chenyu-Yang-2000/EleGANt
 
 **Vector Quantized Image-to-Image Translation**
 - Paper:
 - Code: https://github.com/cyj407/VQ-I2I
+
+**General Object Pose Transformation Network from Unpaired Data**
+- Paper:
+- Code: https://github.com/suyukun666/UFO-PT
 
 **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
 - Paper:
@@ -483,6 +502,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.00833
 - Code: https://github.com/BlingHe/PixelFolder
 
+**DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta**
+- Paper: https://arxiv.org/abs/2207.10271
+- Code: https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -497,6 +520,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**
 - Paper: https://arxiv.org/abs/2207.05049
 - Code: https://github.com/fast-vid2vid/fast-vid2vid
+
+**Synthesizing Light Field Video from Monocular Video**
+- Paper: https://arxiv.org/abs/2207.10357
+- Code: https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video
 
 <a name="Others"></a>
 # Others
@@ -527,6 +554,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **Geometry-aware Single-image Full-body Human Relighting**
 - Paper: https://arxiv.org/abs/2207.04750
+
+**NeRF for Outdoor Scene Relighting**
+- Paper: https://arxiv.org/abs/2112.05140
+- Code: https://github.com/r00tman/NeRF-OSR
 
 **Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal**
 - Paper: https://arxiv.org/abs/2207.08178
