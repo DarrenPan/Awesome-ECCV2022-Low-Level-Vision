@@ -47,7 +47,8 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - [HDR Imaging / Multi-Exposure Image Fusion](#HDR)
 
 - [Frame Interpolation](#FrameInterpolation)
-
+  - [Spatial-Temporal Video Super-Resolution](#STVSR)
+  
 - [Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
@@ -183,7 +184,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/megvii-research/D2C-SR
 
 <!--
-
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -224,7 +224,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 ## Video Deblurring
 
 **Spatio-Temporal Deformable Attention Network for Video Deblurring**
-- Paper: 
+- Paper: https://arxiv.org/abs/2207.10852
 - Code: https://github.com/huicongzhang/STDAN
 
 
@@ -288,6 +288,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2202.04901
 - Code: https://github.com/google-research/frame-interpolation
 
+<a name="STVSR"></a>
+## Spatial-Temporal Video Super-Resolution
+
+**Towards Interpretable Video Super-Resolution via Alternating Optimization**
+- Paper: https://arxiv.org/abs/2207.10765
+- Code: https://github.com/caojiezhang/DAVSR
+
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
@@ -342,6 +349,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Error Compensation Framework for Flow-Guided Video Inpainting**
 - Paper: https://arxiv.org/abs/2207.10391
 
+**Flow-Guided Transformer for Video Inpainting**
+- Paper: 
+- Code: https://github.com/hitachinsk/FGT
+
 
 <a name="Colorization"></a>
 # Image Colorization - 图像上色
@@ -380,7 +391,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 # Image Compression - 图像压缩
 
 **Optimizing Image Compression via Joint Learning with Denoising**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.10869
 - Code: https://github.com/felixcheng97/DenoiseCompression
 
 **Implicit Neural Representations for Image Compression**
@@ -430,6 +441,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
+
+**TIPS: Text-Induced Pose Synthesis**
+- Paper: 
+- Code: https://github.com/prasunroy/tips
 
 **TISE: A Toolbox for Text-to-Image Synthesis Evaluation**
 - Paper: https://arxiv.org/abs/2112.01398
@@ -495,7 +510,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/iceli1007/FakeCLR
 
 **Auto-regressive Image Synthesis with Integrated Quantization**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.10776
 - Code: https://github.com/fnzhan/IQ-VAE
 
 **PixelFolder: An Efficient Progressive Pixel Synthesis Network for Image Generation**
@@ -569,7 +584,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Neural-video-delivery/EMT-Pytorch-ECCV2022
 - Tags: Video Delivery
 
-
+**Human-centric Image Cropping with Partition-aware and Content-preserving Features**
+- Paper: https://arxiv.org/abs/2207.10269
+- Code: https://github.com/bcmi/Human-Centric-Image-Cropping
 
 <!--
 ****
