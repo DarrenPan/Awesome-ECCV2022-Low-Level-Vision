@@ -180,8 +180,15 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/xindongzhang/ELAN
 
 **D2C-SR: A Divergence to Convergence Approach for Real-World Image Super-Resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2103.14373
 - Code: https://github.com/megvii-research/D2C-SR
+- Tag: Real-World
+
+**Reference-based Image Super-Resolution with Deformable Attention Transformer**
+- Paper: https://arxiv.org/abs/2207.11938
+- Code: https://github.com/caojiezhang/DATSR
+- Tags: Reference-based, Transformer
+
 
 <!--
 <a name="VideoSuperResolution"></a>
@@ -300,7 +307,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 # Image Enhancement - 图像增强
 
 **Local Color Distributions Prior for Image Enhancement**
-- Paper:
+- Paper: https://www.cs.cityu.edu.hk/~rynson/papers/eccv22b.pdf
 - Code: https://github.com/hywang99/LCDPNet
 
 **SepLUT: Separable Image-adaptive Lookup Tables for Real-time Image Enhancement**
@@ -420,6 +427,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2110.12427 
 - Code: https://github.com/hila-chefer/TargetCLIP
 
+**Learning Graph Neural Networks for Image Style Transfer**
+- Paper: https://arxiv.org/abs/2207.11681
+
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
@@ -443,7 +453,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
 **TIPS: Text-Induced Pose Synthesis**
-- Paper: 
+- Paper: https://arxiv.org/abs/2207.11718
 - Code: https://github.com/prasunroy/tips
 
 **TISE: A Toolbox for Text-to-Image Synthesis Evaluation**
@@ -587,6 +597,21 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Human-centric Image Cropping with Partition-aware and Content-preserving Features**
 - Paper: https://arxiv.org/abs/2207.10269
 - Code: https://github.com/bcmi/Human-Centric-Image-Cropping
+
+**CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**
+- Paper: https://arxiv.org/abs/2207.12393
+- Code: https://github.com/CelebV-HQ/CelebV-HQ
+- Tags: Dataset
+
+**Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**
+- Paper: https://arxiv.org/abs/2207.11770
+- Code: https://github.com/sstzal/DFRF
+- Tags: Talking Head Synthesis
+
+**Contrastive Monotonic Pixel-Level Modulation**
+- Paper: https://arxiv.org/abs/2207.11517
+- Code: https://github.com/lukun199/MonoPix
+
 
 <!--
 ****
