@@ -102,8 +102,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.06873
 - Code: https://github.com/ExplainableML/BayesCap
 
+**VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder**
+- Paper: https://arxiv.org/abs/2205.06803
+- Code: https://github.com/TencentARC/VQFR
+- Tags: Blind Face Restoration
+
 **Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model**
 - Paper: https://arxiv.org/abs/2207.10040
+- Code: https://github.com/VITA-Group/TurbNet
 - Tags: Atmospheric Turbulence Mitigation, Transformer
 
 **Modeling Mask Uncertainty in Hyperspectral Image Reconstruction**
@@ -156,7 +162,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/HaomingCai/SRPO
 
 **Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.12987
 - Code: https://github.com/zhjy2016/SPLUT
 
 **KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution**
@@ -227,13 +233,17 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/zzh-tech/Animation-from-Blur
 - Tags: recovering detailed motion from a single motion-blurred image
 
+**Event-based Fusion for Motion Deblurring with Cross-modal Attention**
+- Paper:https://arxiv.org/abs/2112.00167
+- Code: https://github.com/AHupuJR/EFNet
+- Tags: Event-based
+
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
 
 **Spatio-Temporal Deformable Attention Network for Video Deblurring**
 - Paper: https://arxiv.org/abs/2207.10852
 - Code: https://github.com/huicongzhang/STDAN
-
 
 **DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting**
 - Paper: https://arxiv.org/abs/2111.09985
@@ -282,6 +292,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging**
 - Paper: 
 - Code: https://github.com/viengiaan/EDWL
+
+**Ghost-free High Dynamic Range Imaging with Context-aware Transformer**
+- Paper:
+- Code: https://github.com/megvii-research/HDR-Transformer
 
 
 <a name="FrameInterpolation"></a>
@@ -449,6 +463,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.11105
 - Code: https://github.com/EzioBy/padinv
 
+**Text2LIVE: Text-Driven Layered Image and Video Editing**
+- Paper: https://arxiv.org/abs/2204.02491
+- Code: https://github.com/omerbt/Text2LIVE
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
@@ -459,6 +477,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **TISE: A Toolbox for Text-to-Image Synthesis Evaluation**
 - Paper: https://arxiv.org/abs/2112.01398
 - Code: https://github.com/VinAIResearch/tise-toolbox
+
+**Learning Visual Styles from Audio-Visual Associations**
+- Paper: https://arxiv.org/abs/2205.05072
+- Code: https://github.com/Tinglok/avstyle
 
 **ManiFest: Manifold Deformation for Few-shot Image Translation**
 - Paper: https://arxiv.org/abs/2111.13681
