@@ -102,6 +102,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.06873
 - Code: https://github.com/ExplainableML/BayesCap
 
+**Improving Image Restoration by Revisiting Global Information Aggregation**
+- Paper: https://arxiv.org/abs/2112.04491
+- Code: https://github.com/megvii-research/TLC
+
 **VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder**
 - Paper: https://arxiv.org/abs/2205.06803
 - Code: https://github.com/TencentARC/VQFR
@@ -245,6 +249,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.10852
 - Code: https://github.com/huicongzhang/STDAN
 
+**Efficient Video Deblurring Guided by Motion Magnitude**
+- Paper: https://arxiv.org/abs/2207.13374
+- Code: https://github.com/sollynoay/MMP-RNN
+
 **DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting**
 - Paper: https://arxiv.org/abs/2111.09985
 - Code: https://github.com/JihyongOh/DeMFI
@@ -386,10 +394,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: 
 - Code: https://github.com/Lhyejin/DG-Colorization
 
-<!--
 <a name="Matting"></a>
 # Image Matting - 图像抠图
--->
+
+**One-Trimap Video Matting**
+- Paper: https://arxiv.org/abs/2207.13353
+- Code: https://github.com/Hongje/OTVM
 
 
 <a name="ShadowRemoval"></a>
@@ -425,6 +435,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling**
 - Paper: https://arxiv.org/abs/2207.02595
 - Code: https://github.com/TimothyHTimothy/FAST-VQA
+
+**Shift-tolerant Perceptual Similarity Metric**
+- Paper: https://arxiv.org/abs/2207.13686
+- Code: https://github.com/abhijay9/ShiftTolerant-LPIPS/
 
 **Telepresence Video Quality Assessment**
 - Paper: https://arxiv.org/abs/2207.09956
@@ -482,6 +496,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2205.05072
 - Code: https://github.com/Tinglok/avstyle
 
+**End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement**
+- Paper: https://arxiv.org/abs/2207.13268
+
 **ManiFest: Manifold Deformation for Few-shot Image Translation**
 - Paper: https://arxiv.org/abs/2111.13681
 - Code: https://github.com/cv-rits/ManiFest
@@ -508,6 +525,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
 - Paper:
 - Code: https://github.com/Taeu/Style-Your-Hair
+
+**StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**
+- Paper:
+- Code: https://github.com/Wanggcong/StyleLight
 
 **Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
 - Paper: https://arxiv.org/abs/2207.02196
@@ -552,6 +573,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta**
 - Paper: https://arxiv.org/abs/2207.10271
 - Code: https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation
+
+**Generator Knows What Discriminator Should Learn in Unconditional GANs**
+- Paper: https://arxiv.org/abs/2207.13320
+- Code: https://github.com/naver-ai/GGDR
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -633,6 +658,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Contrastive Monotonic Pixel-Level Modulation**
 - Paper: https://arxiv.org/abs/2207.11517
 - Code: https://github.com/lukun199/MonoPix
+
+**AutoTransition: Learning to Recommend Video Transition Effects**
+- Paper: https://arxiv.org/abs/2207.13479
+- Code: https://github.com/acherstyx/AutoTransition
 
 
 <!--
