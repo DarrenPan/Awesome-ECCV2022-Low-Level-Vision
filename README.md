@@ -58,9 +58,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 - [Image Colorization](#Colorization)
 
-<!--
 - [Image Matting](#Matting)
--->
 
 - [Shadow Removal](#ShadowRemoval)
 
