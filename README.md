@@ -427,6 +427,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2112.04267
 - Code：https://github.com/YannickStruempler/inr_based_compression
 
+## Video Compression
+
+**AlphaVC: High-Performance and Efficient Learned Video Compression**
+- Paper: https://arxiv.org/abs/2207.14678
+
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
 
@@ -455,6 +460,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **Learning Graph Neural Networks for Image Style Transfer**
 - Paper: https://arxiv.org/abs/2207.11681
+
+**WISE: Whitebox Image Stylization by Example-based Learning**
+- Paper: https://arxiv.org/abs/2207.14606
+- Code: https://github.com/winfried-loetzsch/wise
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
@@ -521,7 +530,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/suyukun666/UFO-PT
 
 **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.14811
 - Code: https://github.com/Taeu/Style-Your-Hair
 
 **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**
