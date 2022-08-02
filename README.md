@@ -104,6 +104,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2112.04491
 - Code: https://github.com/megvii-research/TLC
 
+**Fast Two-step Blind Optical Aberration Correction**
+- Paper: https://arxiv.org/abs/2208.00950
+- Code: https://github.com/teboli/fast_two_stage_psf_correction
+- Tags: Optical Aberration Correction
+
 **VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder**
 - Paper: https://arxiv.org/abs/2205.06803
 - Code: https://github.com/TencentARC/VQFR
@@ -517,6 +522,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.06124
 - Code: https://github.com/Huage001/DynaST
 
+**Cross Attention Based Style Distribution for Controllable Person Image Synthesis**
+- Paper: https://arxiv.org/abs/2208.00712
+- Code: https://github.com/xyzhouo/CASD
+
 **EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**
 - Paper: https://arxiv.org/abs/2207.09840
 - Code: https://github.com/Chenyu-Yang-2000/EleGANt
@@ -530,11 +539,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/suyukun666/UFO-PT
 
 **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
-- Paper: https://arxiv.org/abs/2207.14811
+- Paper: 
 - Code: https://github.com/Taeu/Style-Your-Hair
 
 **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.14811
 - Code: https://github.com/Wanggcong/StyleLight
 
 **Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
