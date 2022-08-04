@@ -369,7 +369,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 # Image Completion/Inpainting - 图像修复
 
 **Learning Prior Feature and Attention Enhanced Image Inpainting**
-- Paper:
+- Paper: https://arxiv.org/abs/2208.01837
 - Code: https://github.com/ewrfcas/MAE-FAR
 
 **Perceptual Artifacts Localization for Inpainting**
@@ -533,6 +533,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Vector Quantized Image-to-Image Translation**
 - Paper:
 - Code: https://github.com/cyj407/VQ-I2I
+
+**URUST: Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization**
+- Paper:
+- Code: https://github.com/Kaminyou/URUST
 
 **General Object Pose Transformation Network from Unpaired Data**
 - Paper:
