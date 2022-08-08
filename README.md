@@ -202,12 +202,15 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/caojiezhang/DATSR
 - Tags: Reference-based, Transformer
 
-
-<!--
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
+**Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2208.03012
+- Code: https://github.com/researchmm/FTVSR
+- Tags: Compressed Video SR
 
+<!--
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放
 
@@ -400,6 +403,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="Matting"></a>
 # Image Matting - 图像抠图
 
+**TransMatting: Enhancing Transparent Objects Matting with Transformers**
+- Paper: https://arxiv.org/abs/2208.03007
+- Code: https://github.com/AceCHQ/TransMatting
+
+
 **One-Trimap Video Matting**
 - Paper: https://arxiv.org/abs/2207.13353
 - Code: https://github.com/Hongje/OTVM
@@ -431,6 +439,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Implicit Neural Representations for Image Compression**
 - Paper: https://arxiv.org/abs/2112.04267
 - Code：https://github.com/YannickStruempler/inr_based_compression
+
+**Expanded Adaptive Scaling Normalization for End to End Image Compression**
+- Paper: https://arxiv.org/abs/2208.03049
 
 ## Video Compression
 
