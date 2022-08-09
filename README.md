@@ -192,6 +192,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.06697
 - Code: https://github.com/xindongzhang/ELAN
 
+**Perception-Distortion Balanced ADMM Optimization for Single-Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2208.03324
+- Code: https://github.com/Yuehan717/PDASR
+
 **D2C-SR: A Divergence to Convergence Approach for Real-World Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2103.14373
 - Code: https://github.com/megvii-research/D2C-SR
@@ -608,6 +612,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Generator Knows What Discriminator Should Learn in Unconditional GANs**
 - Paper: https://arxiv.org/abs/2207.13320
 - Code: https://github.com/naver-ai/GGDR
+
+**Hierarchical Semantic Regularization of Latent Spaces in StyleGANs**
+- Paper: https://arxiv.org/abs/2208.03764
+- Code: https://drive.google.com/file/d/1gzHTYTgGBUlDWyN_Z3ORofisQrHChg_n/view
 
 <a name="VideoGeneration"></a>
 ## Video Generation
