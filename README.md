@@ -242,6 +242,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <a name="ImageDeblurring"></a>
 ## Image Deblurring
 
+**Learning Degradation Representations for Image Deblurring**
+- Paper: https://arxiv.org/abs/2208.05244
+- Code: https://github.com/dasongli1/Learning_degradation
+
 **Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance**
 - Paper: https://arxiv.org/abs/2207.10123
 - Code: https://github.com/zzh-tech/Animation-from-Blur
@@ -312,7 +316,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/viengiaan/EDWL
 
 **Ghost-free High Dynamic Range Imaging with Context-aware Transformer**
-- Paper:
+- Paper: https://arxiv.org/abs/2208.05114
 - Code: https://github.com/megvii-research/HDR-Transformer
 
 
