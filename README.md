@@ -415,7 +415,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.03007
 - Code: https://github.com/AceCHQ/TransMatting
 
-
 **One-Trimap Video Matting**
 - Paper: https://arxiv.org/abs/2207.13353
 - Code: https://github.com/Hongje/OTVM
@@ -553,7 +552,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/cyj407/VQ-I2I
 
-**URUST: Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization**
+**URUST: Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization**
 - Paper:
 - Code: https://github.com/Kaminyou/URUST
 
@@ -706,6 +705,17 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.13479
 - Code: https://github.com/acherstyx/AutoTransition
 
+**Bringing Rolling Shutter Images Alive with Dual Reversed Distortion**
+- Paper: https://arxiv.org/abs/2203.06451
+- Code: https://github.com/zzh-tech/Dual-Reversed-RS
+
+**Learning Object Placement via Dual-path Graph Completion**
+- Paper: https://arxiv.org/abs/2207.11464
+- Code: https://github.com/bcmi/GracoNet-Object-Placement
+
+**DeepMCBM: A Deep Moving-camera Background Model**
+- Paper:
+- Code: https://github.com/BGU-CS-VIL/DeepMCBM
 
 <!--
 ****
