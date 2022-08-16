@@ -319,6 +319,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.05114
 - Code: https://github.com/megvii-research/HDR-Transformer
 
+**HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields**
+- Paper: https://arxiv.org/abs/2208.06787
+- Code: https://github.com/postech-ami/HDR-Plenoxels
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
@@ -393,7 +396,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.10391
 
 **Flow-Guided Transformer for Video Inpainting**
-- Paper: 
+- Paper: https://arxiv.org/abs/2208.06768
 - Code: https://github.com/hitachinsk/FGT
 
 
