@@ -114,6 +114,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/TencentARC/VQFR
 - Tags: Blind Face Restoration
 
+**RAWtoBit: A Fully End-to-end Camera ISP Network**
+- Paper: https://arxiv.org/abs/2208.07639
+- Tags: ISP and Image Compression
+
 **Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model**
 - Paper: https://arxiv.org/abs/2207.10040
 - Code: https://github.com/VITA-Group/TurbNet
@@ -205,6 +209,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.11938
 - Code: https://github.com/caojiezhang/DATSR
 - Tags: Reference-based, Transformer
+
+**Compiler-Aware Neural Architecture Search for On-Mobile Real-time Super-Resolution**
+- Paper: https://arxiv.org/abs/2207.12577
+- Code: https://github.com/wuyushuwys/compiler-aware-nas-sr
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
@@ -453,6 +461,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Expanded Adaptive Scaling Normalization for End to End Image Compression**
 - Paper: https://arxiv.org/abs/2208.03049
 
+**Content-Oriented Learned Image Compression**
+- Paper: 
+- Code: https://github.com/lmijydyb/COLIC
+
 ## Video Compression
 
 **AlphaVC: High-Performance and Efficient Learned Video Compression**
@@ -564,7 +576,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/suyukun666/UFO-PT
 
 **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
-- Paper: 
+- Paper: https://arxiv.org/abs/2208.07765
 - Code: https://github.com/Taeu/Style-Your-Hair
 
 **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**
