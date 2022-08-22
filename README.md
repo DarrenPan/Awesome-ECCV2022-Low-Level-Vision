@@ -342,6 +342,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2202.04901
 - Code: https://github.com/google-research/frame-interpolation
 
+**Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow**
+- Paper: https://arxiv.org/abs/2208.09127
+
 <a name="STVSR"></a>
 ## Spatial-Temporal Video Super-Resolution
 
@@ -515,7 +518,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/XuyangGuo/CtrlHair
 
 **Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing**
-- Paper:
+- Paper: https://arxiv.org/abs/2208.08092
 - Code: https://github.com/1jsingh/paint2pix
 
 **High-fidelity GAN Inversion with Padding Space**
@@ -731,6 +734,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **DeepMCBM: A Deep Moving-camera Background Model**
 - Paper:
 - Code: https://github.com/BGU-CS-VIL/DeepMCBM
+
+**Mind the Gap in Distilling StyleGANs**
+- Paper: https://arxiv.org/abs/2208.08840
+- Code: https://github.com/xuguodong03/StyleKD
 
 <!--
 ****
