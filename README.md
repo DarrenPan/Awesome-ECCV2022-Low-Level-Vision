@@ -214,6 +214,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.12577
 - Code: https://github.com/wuyushuwys/compiler-aware-nas-sr
 
+**HST: Hierarchical Swin Transformer for Compressed Image Super-resolution**
+- Paper: https://arxiv.org/abs/2208.09885
+- Tags: [Workshop-AIM2022]
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -637,6 +641,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Hierarchical Semantic Regularization of Latent Spaces in StyleGANs**
 - Paper: https://arxiv.org/abs/2208.03764
 - Code: https://drive.google.com/file/d/1gzHTYTgGBUlDWyN_Z3ORofisQrHChg_n/view
+
+**FurryGAN: High Quality Foreground-aware Image Synthesis**
+- Paper: https://arxiv.org/abs/2208.10422
+- Project: https://jeongminb.github.io/FurryGAN/
+
+**Improving GANs for Long-Tailed Data through Group Spectral Regularization**
+- Paper: https://arxiv.org/abs/2208.09932
+- Code: https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view
 
 <a name="VideoGeneration"></a>
 ## Video Generation
