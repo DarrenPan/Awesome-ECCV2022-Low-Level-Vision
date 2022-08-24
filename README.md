@@ -394,6 +394,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.04788
 - Code: https://github.com/rockeyben/DCCF
 
+
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
 
@@ -402,7 +403,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/ewrfcas/MAE-FAR
 
 **Perceptual Artifacts Localization for Inpainting**
-- Paper:
+- Paper: https://arxiv.org/abs/2208.03357
 - Code: https://github.com/owenzlz/PAL4Inpaint
 
 ## Video Inpainting
@@ -571,11 +572,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Chenyu-Yang-2000/EleGANt
 
 **Vector Quantized Image-to-Image Translation**
-- Paper:
+- Paper: https://arxiv.org/abs/2207.13286
 - Code: https://github.com/cyj407/VQ-I2I
 
 **URUST: Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization**
-- Paper:
+- Paper: https://arxiv.org/abs/2208.10730
 - Code: https://github.com/Kaminyou/URUST
 
 **General Object Pose Transformation Network from Unpaired Data**
@@ -658,7 +659,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/SongweiGe/TATS
 
 **Controllable Video Generation through Global and Local Motion Dynamics**
-- Paper: 
+- Paper: https://arxiv.org/abs/2204.06558
 - Code: https://github.com/Araachie/glass
 
 **Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**
