@@ -218,6 +218,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.09885
 - Tags: [Workshop-AIM2022]
 
+**Fast Nearest Convolution for Real-Time Efficient Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2208.11609
+- Code: https://github.com/Algolzw/NCNet
+- Tags: [Workshop-AIM2022]
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -283,6 +288,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2111.09985
 - Code: https://github.com/JihyongOh/DeMFI
 - Tags: Joint Deblurring and Frame Interpolation
+
+**Towards Real-World Video Deblurring by Exploring Blur Formation Process**
+- Paper: https://arxiv.org/abs/2208.13184
+- Tags: [Workshop-AIM2022]
 
 <a name="Decomposition"></a>
 # Image Decomposition
@@ -405,6 +414,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Perceptual Artifacts Localization for Inpainting**
 - Paper: https://arxiv.org/abs/2208.03357
 - Code: https://github.com/owenzlz/PAL4Inpaint
+
+**High-Fidelity Image Inpainting with GAN Inversion**
+- Paper: https://arxiv.org/abs/2208.11850
+
+**Unbiased Multi-Modality Guidance for Image Inpainting**
+- Paper: https://arxiv.org/abs/2208.11844
+
 
 ## Video Inpainting
 
@@ -650,6 +666,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Improving GANs for Long-Tailed Data through Group Spectral Regularization**
 - Paper: https://arxiv.org/abs/2208.09932
 - Code: https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view
+
+**Exploring Gradient-based Multi-directional Controls in GANs**
+- Paper: https://arxiv.org/abs/2209.00698
+- Code: https://github.com/zikuncshelly/GradCtrl
 
 <a name="VideoGeneration"></a>
 ## Video Generation
