@@ -599,6 +599,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/suyukun666/UFO-PT
 
+**Unpaired Image Translation via Vector Symbolic Architectures**
+- Paper: https://arxiv.org/abs/2209.02686
+- Code: https://github.com/facebookresearch/vsait
+
 **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
 - Paper: https://arxiv.org/abs/2208.07765
 - Code: https://github.com/Taeu/Style-Your-Hair
