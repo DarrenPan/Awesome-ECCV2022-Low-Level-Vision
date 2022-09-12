@@ -205,6 +205,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/megvii-research/D2C-SR
 - Tag: Real-World
 
+**MM-RealSR: Metric Learning based Interactive Modulation for Real-World Super-Resolution**
+- Paper: https://arxiv.org/abs/2205.05065
+- Code: https://github.com/TencentARC/MM-RealSR
+
 **Reference-based Image Super-Resolution with Deformable Attention Transformer**
 - Paper: https://arxiv.org/abs/2207.11938
 - Code: https://github.com/caojiezhang/DATSR
@@ -674,6 +678,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Exploring Gradient-based Multi-directional Controls in GANs**
 - Paper: https://arxiv.org/abs/2209.00698
 - Code: https://github.com/zikuncshelly/GradCtrl
+
+**Improved Masked Image Generation with Token-Critic**
+- Paper: https://arxiv.org/abs/2209.04439
 
 <a name="VideoGeneration"></a>
 ## Video Generation
