@@ -384,10 +384,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.08080
 - Code: https://github.com/amberwangyili/neurop
 
-**Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression**
-- Paper: https://arxiv.org/abs/2207.10564
-- Code: https://github.com/jinyeying/night-enhancement
-
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
@@ -395,6 +391,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2202.03373
 - Code: https://github.com/sczhou/LEDNet
 
+**Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression**
+- Paper: https://arxiv.org/abs/2207.10564
+- Code: https://github.com/jinyeying/night-enhancement
 
 <a name="Harmonization"></a>
 # Image Harmonization - 图像协调
