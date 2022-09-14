@@ -681,6 +681,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Improved Masked Image Generation with Token-Critic**
 - Paper: https://arxiv.org/abs/2209.04439
 
+**Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation**
+- Paper: https://arxiv.org/abs/2209.05968
+- Project: https://eadcat.github.io/WSSN
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -699,6 +703,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Synthesizing Light Field Video from Monocular Video**
 - Paper: https://arxiv.org/abs/2207.10357
 - Code: https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video
+
+**StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**
+- Paper: https://arxiv.org/abs/2209.06192
+- Code: https://github.com/adymaharana/storydalle
 
 <a name="Others"></a>
 # Others
