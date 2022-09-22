@@ -177,7 +177,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/zhjy2016/SPLUT
 
 **KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2209.10305
 - Code: https://github.com/jiahong-fu/KXNet
 
 **Image Super-Resolution with Deep Dictionary**
@@ -234,6 +234,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.03012
 - Code: https://github.com/researchmm/FTVSR
 - Tags: Compressed Video SR
+
+**Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset**
+- Paper:
+- Code: https://github.com/zmzhang1998/Real-RawVSR
 
 <!--
 <a name="Rescaling"></a>
@@ -708,6 +712,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2209.06192
 - Code: https://github.com/adymaharana/storydalle
 
+**Motion Transformer for Unsupervised Image Animation**
+- Paper: 
+- Code: https://github.com/JialeTao/MoTrans
+
 <a name="Others"></a>
 # Others
 
@@ -783,7 +791,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/bcmi/GracoNet-Object-Placement
 
 **DeepMCBM: A Deep Moving-camera Background Model**
-- Paper:
+- Paper: https://arxiv.org/abs/2209.07923
 - Code: https://github.com/BGU-CS-VIL/DeepMCBM
 
 **Mind the Gap in Distilling StyleGANs**
