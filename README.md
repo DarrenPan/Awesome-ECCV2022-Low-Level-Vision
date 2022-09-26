@@ -46,6 +46,8 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 -->
 - [HDR Imaging / Multi-Exposure Image Fusion](#HDR)
 
+- [Image Fusion](#Fusion)
+
 - [Frame Interpolation](#FrameInterpolation)
   - [Spatial-Temporal Video Super-Resolution](#STVSR)
   
@@ -222,6 +224,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.09885
 - Tags: [Workshop-AIM2022]
 
+**Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration**
+- Paper: https://arxiv.org/abs/2209.11345
+- Code: https://github.com/mv-lab/swin2sr
+- Tags: [Workshop-AIM2022]
+
 **Fast Nearest Convolution for Real-Time Efficient Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2208.11609
 - Code: https://github.com/Algolzw/NCNet
@@ -352,6 +359,20 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.06787
 - Code: https://github.com/postech-ami/HDR-Plenoxels
 
+<a name="Fusion"></a>
+# Image Fusion
+
+**FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion**
+- Paper: https://arxiv.org/abs/2209.11277
+
+**Recurrent Correction Network for Fast and Efficient Multi-modality Image Fusion**
+- Paper:
+- Code: https://github.com/MisakiCoca/ReCoNet
+
+**Neural Image Representations for Multi-Image Fusion and Layer Separation**
+- Paper: https://arxiv.org/abs/2108.01199
+- Code: https://shnnam.github.io/research/nir/
+
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
 
@@ -449,6 +470,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Bridging the Domain Gap towards Generalization in Automatic Colorization**
 - Paper: 
 - Code: https://github.com/Lhyejin/DG-Colorization
+
+**CT2: Colorization Transformer via Color Tokens**
+- Paper: https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf
+- Code: https://github.com/shuchenweng/CT2
+
 
 <a name="Matting"></a>
 # Image Matting - 图像抠图
@@ -556,6 +582,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Text2LIVE: Text-Driven Layered Image and Video Editing**
 - Paper: https://arxiv.org/abs/2204.02491
 - Code: https://github.com/omerbt/Text2LIVE
+
+**IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion**
+- Paper: https://arxiv.org/abs/2209.10811
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
@@ -797,6 +826,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Mind the Gap in Distilling StyleGANs**
 - Paper: https://arxiv.org/abs/2208.08840
 - Code: https://github.com/xuguodong03/StyleKD
+
+**StyleSwap: Style-Based Generator Empowers Robust Face Swapping**
+- Paper:
+- Code: https://github.com/Seanseattle/StyleSwap
+- Tags: Face Swapping
 
 <!--
 ****
