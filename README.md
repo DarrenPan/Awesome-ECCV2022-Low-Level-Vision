@@ -243,7 +243,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Tags: Compressed Video SR
 
 **Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset**
-- Paper:
+- Paper: https://arxiv.org/abs/2209.12475
 - Code: https://github.com/zmzhang1998/Real-RawVSR
 
 <!--
@@ -372,6 +372,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Neural Image Representations for Multi-Image Fusion and Layer Separation**
 - Paper: https://arxiv.org/abs/2108.01199
 - Code: https://shnnam.github.io/research/nir/
+
+**Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion**
+- Paper:
+- Code: https://github.com/erfect2020/DecompositionForFusion
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
@@ -828,7 +832,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/xuguodong03/StyleKD
 
 **StyleSwap: Style-Based Generator Empowers Robust Face Swapping**
-- Paper:
+- Paper: https://arxiv.org/abs/2209.13514
 - Code: https://github.com/Seanseattle/StyleSwap
 - Tags: Face Swapping
 
