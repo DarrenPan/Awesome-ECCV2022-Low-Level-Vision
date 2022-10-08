@@ -167,7 +167,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Cheeun/CADyQ
 
 **From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**
-- Paper: 
+- Paper: https://arxiv.org/abs/2210.00752
 - Code: https://github.com/csxmli2016/ReDegNet
 
 **Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images**
@@ -390,6 +390,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow**
 - Paper: https://arxiv.org/abs/2208.09127
+
+**A Perceptual Quality Metric for Video Frame Interpolation**
+- Paper: https://arxiv.org/abs/2210.01879
+- Code: https://github.com/hqqxyy/VFIPS
 
 <a name="STVSR"></a>
 ## Spatial-Temporal Video Super-Resolution
@@ -835,6 +839,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2209.13514
 - Code: https://github.com/Seanseattle/StyleSwap
 - Tags: Face Swapping
+
+**Geometric Representation Learning for Document Image Rectification**
+- Paper: 
+- Code: https://github.com/fh2019ustc/DocGeoNet
+- Tags: Document Image Rectification
 
 <!--
 ****
