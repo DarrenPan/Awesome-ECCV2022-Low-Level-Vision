@@ -171,7 +171,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/csxmli2016/ReDegNet
 
 **Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images**
-- Paper:
+- Paper: https://arxiv.org/abs/2210.04198
 - Code: https://github.com/HaomingCai/SRPO
 
 **Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution**
@@ -725,6 +725,8 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation**
 - Paper: https://arxiv.org/abs/2209.05968
 - Project: https://eadcat.github.io/WSSN
+
+
 
 <a name="VideoGeneration"></a>
 ## Video Generation
