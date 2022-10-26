@@ -13,10 +13,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 ## Catalogue
 
 - [Image Restoration](#ImageRetoration)
-<!--
-  - [Burst Restoration](#BurstRestoration)
   - [Video Restoration](#VideoRestoration)
--->
 - [Super Resolution](#SuperResolution)
   - [Image Super Resolution](#ImageSuperResolution)
   - [Video Super Resolution](#VideoSuperResolution)
@@ -95,7 +92,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/zhaoyuzhi/D2HNet
 
 **Seeing Far in the Dark with Patterned Flash**
-- Paper: 
+- Paper: https://arxiv.org/abs/2207.12570
 - Code: https://github.com/zhsun0357/Seeing-Far-in-the-Dark-with-Patterned-Flash
 
 **BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks**
@@ -120,6 +117,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.07639
 - Tags: ISP and Image Compression
 
+**Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild**
+- Paper: https://arxiv.org/abs/2203.10636
+- Code: https://github.com/4rdhendu/TransformPhone2DSLR
+- Tags: ISP
+
 **Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model**
 - Paper: https://arxiv.org/abs/2207.10040
 - Code: https://github.com/VITA-Group/TurbNet
@@ -130,19 +132,43 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI
 - Tags: Hyperspectral Image Reconstruction
 
+**VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1617_ECCV_2022_paper.php
+
+**TAPE: Task-Agnostic Prior Embedding for Image Restoration**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3292_ECCV_2022_paper.php
+
+**DRCNet: Dynamic Image Restoration Contrastive Network**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6389_ECCV_2022_paper.php
+
+**ART-SS: An Adaptive Rejection Technique for Semi-Supervised Restoration for Adverse Weather-Affected Images**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4237_ECCV_2022_paper.php
+- Code: https://github.com/rajeevyasarla/ART-SS
+- Tags: Adverse Weather
+
+**Spectrum-Aware and Transferable Architecture Search for Hyperspectral Image Restoration**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4367_ECCV_2022_paper.php
+- Tags: Hyperspectral Image Restoration
+
+**Seeing through a Black Box: Toward High-Quality Terahertz Imaging via Subspace-and-Attention Guided Restoration**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6259_ECCV_2022_paper.php
+- Tags: Terahertz Imaging
+
 **Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement**
 - Paper: https://arxiv.org/abs/2210.11511
 - Code: https://github.com/SenseBrainTech/overexposure-mask-reverse-ISP
-- Tagss: Reversed ISP
+- Tagss: [Workshop], Reversed ISP
 
 <!--
 <a name="BurstRestoration"></a>
 ## Burst Restoration
+-->
 
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
--->
+**Video Restoration Framework and Its Meta-Adaptations to Data-Poor Conditions**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7533_ECCV_2022_paper.php
 
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率
