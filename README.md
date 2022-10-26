@@ -130,6 +130,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI
 - Tags: Hyperspectral Image Reconstruction
 
+**Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement**
+- Paper: https://arxiv.org/abs/2210.11511
+- Code: https://github.com/SenseBrainTech/overexposure-mask-reverse-ISP
+- Tagss: Reversed ISP
+
 <!--
 <a name="BurstRestoration"></a>
 ## Burst Restoration
@@ -173,10 +178,17 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images**
 - Paper: https://arxiv.org/abs/2210.04198
 - Code: https://github.com/HaomingCai/SRPO
+- Tags: Rasterized Images
 
 **Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2207.12987
 - Code: https://github.com/zhjy2016/SPLUT
+- Tags: Efficient
+
+**MuLUT: Cooperating Mulitple Look-Up Tables for Efficient Image Super-Resolution**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf
+- Code: https://github.com/ddlee-cn/MuLUT
+- Tags: Efficient
 
 **KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution**
 - Paper: https://arxiv.org/abs/2209.10305
@@ -483,6 +495,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf
 - Code: https://github.com/shuchenweng/CT2
 
+**PalGAN: Image Colorization with Palette Generative Adversarial Networks**
+- Paper: https://arxiv.org/abs/2210.11204
+- Code: https://github.com/shepnerd/PalGAN
+
+**BigColor: Colorization using a Generative Color Prior for Natural Images**
+- Paper: https://kimgeonung.github.io/assets/bigcolor/bigcolor_main.pdf
+- Code: https://github.com/KIMGEONUNG/BigColor
+
 
 <a name="Matting"></a>
 # Image Matting - 图像抠图
@@ -548,6 +568,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **Telepresence Video Quality Assessment**
 - Paper: https://arxiv.org/abs/2207.09956
+
+**A Perceptual Quality Metric for Video Frame Interpolation**
+- Paper: https://arxiv.org/abs/2210.01879
+- Code: https://github.com/hqqxyy/VFIPS
 
 
 <a name="StyleTransfer"></a>
@@ -846,6 +870,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: 
 - Code: https://github.com/fh2019ustc/DocGeoNet
 - Tags: Document Image Rectification
+
+
+
 
 <!--
 ****
