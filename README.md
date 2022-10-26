@@ -313,8 +313,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2209.12475
 - Code: https://github.com/zmzhang1998/Real-RawVSR
 
-
-
 <!--
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放
@@ -330,12 +328,18 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.09302
 - Code: https://github.com/MKFMIKU/d2sm
 
+**Fast and High Quality Image Denoising via Malleable Convolution**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3257_ECCV_2022_paper.php
+
 <a name="VideoDenoising"></a>
 ## Video Denoising
 
 **Unidirectional Video Denoising by Mimicking Backward Recurrent Modules with Look-ahead Forward Ones**
-- Paper: 
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4024_ECCV_2022_paper.php
 - Code: https://github.com/nagejacob/FloRNN
+
+**TempFormer: Temporally Consistent Transformer for Video Denoising**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6092_ECCV_2022_paper.php
 
 
 <a name="Deblurring"></a>
