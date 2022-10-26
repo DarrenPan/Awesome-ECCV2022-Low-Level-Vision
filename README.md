@@ -153,6 +153,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6259_ECCV_2022_paper.php
 - Tags: Terahertz Imaging
 
+**JPEG Artifacts Removal via Contrastive Representation Learning**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/171_ECCV_2022_paper.php
+- Tags: JPEG Artifacts Removal
+
+**Zero-Shot Learning for Reflection Removal of Single 360-Degree Image**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6418_ECCV_2022_paper.php
+- Tags: Reflection Removal
+
 **Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement**
 - Paper: https://arxiv.org/abs/2210.11511
 - Code: https://github.com/SenseBrainTech/overexposure-mask-reverse-ISP
@@ -606,6 +614,16 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Perceptual Artifacts Localization for Inpainting**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2153_ECCV_2022_paper.php
 
+**Don't Forget Me: Accurate Background Recovery for Text Removal via Modeling Local-Global Context**
+- Paper: https://arxiv.org/abs/2207.10273
+- Code: https://github.com/lcy0604/CTRNet
+- Tags: Text Removal
+
+**The Surprisingly Straightforward Scene Text Removal Method with Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4705_ECCV_2022_paper.php
+- Code: https://github.com/naver/garnet
+- Tags: Text Removal
+
 ## Video Inpainting
 
 **Error Compensation Framework for Flow-Guided Video Inpainting**
@@ -624,7 +642,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/kunkun0w0/SGA
 
 **Bridging the Domain Gap towards Generalization in Automatic Colorization**
-- Paper: 
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7304_ECCV_2022_paper.php
 - Code: https://github.com/Lhyejin/DG-Colorization
 
 **CT2: Colorization Transformer via Color Tokens**
@@ -638,6 +656,18 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **BigColor: Colorization using a Generative Color Prior for Natural Images**
 - Paper: https://kimgeonung.github.io/assets/bigcolor/bigcolor_main.pdf
 - Code: https://github.com/KIMGEONUNG/BigColor
+
+**Semantic-Sparse Colorization Network for Deep Exemplar-Based Colorization**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/820_ECCV_2022_paper.php
+
+**ColorFormer: Image Colorization via Color Memory Assisted Hybrid-Attention Transformer**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3385_ECCV_2022_paper.php
+
+**L-CoDer: Language-Based Colorization with Color-Object Decoupling Transformer**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2424_ECCV_2022_paper.php
+
+**Colorization for In Situ Marine Plankton Images**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6905_ECCV_2022_paper.php
 
 
 <a name="Matting"></a>
@@ -656,7 +686,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 # Shadow Removal - 阴影消除
 
 **Style-Guided Shadow Removal**
-- Paper:
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5580_ECCV_2022_paper.php
 - Code: https://github.com/jinwan1994/SG-ShadowNet
 
 
