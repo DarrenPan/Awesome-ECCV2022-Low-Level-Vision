@@ -590,6 +590,21 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Unbiased Multi-Modality Guidance for Image Inpainting**
 - Paper: https://arxiv.org/abs/2208.11844
 
+**Image Inpainting with Cascaded Modulation GAN and Object-Aware Training**
+- Paper: https://arxiv.org/abs/2203.11947
+- Code: https://github.com/htzheng/CM-GAN-Inpainting
+
+**Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5789_ECCV_2022_paper.php
+
+**Diverse Image Inpainting with Normalizing Flow**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2814_ECCV_2022_paper.php
+
+**Hourglass Attention Network for Image Inpainting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3369_ECCV_2022_paper.php
+
+**Perceptual Artifacts Localization for Inpainting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2153_ECCV_2022_paper.php
 
 ## Video Inpainting
 
