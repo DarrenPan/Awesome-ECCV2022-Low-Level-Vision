@@ -32,9 +32,8 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 - [Image Decomposition](#Decomposition)
 
-<!--
 - [Deraining](#Deraining)
--->
+
 - [Dehazing](#Dehazing)
 
 - [Demoireing](#Demoireing)
@@ -409,21 +408,36 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2108.11364
 - Code: https://github.com/JunlinHan/BID
 
-<!--
+
 <a name="Deraining"></a>
 # Deraining - 去雨
--->
+
+**Not Just Streaks: Towards Ground Truth for Single Image Deraining**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1506_ECCV_2022_paper.php
+- Code: https://github.com/UCLA-VMG/GT-RAIN
+
+**Rethinking Video Rain Streak Removal: A New Synthesis Model and a Deraining Network with Video Rain Prior**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6798_ECCV_2022_paper.php
+- Code: https://github.com/wangshauitj/RDD-Net
+
 
 <a name="Dehazing"></a>
 # Dehazing - 去雾
 
 **Frequency and Spatial Dual Guidance for Image Dehazing**
-- Paper: 
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4734_ECCV_2022_paper.php
 - Code: https://github.com/yuhuUSTC/FSDGN 
 
-**Perceiving and Modeling Density is All You Need for Image Dehazing**
+**Perceiving and Modeling Density for Image Dehazing**
 - Paper: https://arxiv.org/abs/2111.09733
 - Code: https://github.com/Owen718/ECCV22-Perceiving-and-Modeling-Density-for-Image-Dehazing
+
+**Boosting Supervised Dehazing Methods via Bi-Level Patch Reweighting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1346_ECCV_2022_paper.php
+
+**Unpaired Deep Image Dehazing Using Contrastive Disentanglement Learning**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/255_ECCV_2022_paper.php
+
 
 <a name="Demoireing"></a>
 # Demoireing - 去摩尔纹
