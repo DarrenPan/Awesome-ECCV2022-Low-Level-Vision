@@ -689,14 +689,18 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5580_ECCV_2022_paper.php
 - Code: https://github.com/jinwan1994/SG-ShadowNet
 
+<a name="Relighting"></a>
+# Relighting/Delighting
 
-<!--
+**Deep Portrait Delighting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4581_ECCV_2022_paper.php
 
+**Geometry-Aware Single-Image Full-Body Human Relighting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4385_ECCV_2022_paper.php
 
-<a name="Stitching"></a>
-# Image Stitching - 图像拼接
+**NeRF for Outdoor Scene Relighting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4998_ECCV_2022_paper.php
 
--->
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
