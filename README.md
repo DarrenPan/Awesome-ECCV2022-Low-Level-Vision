@@ -478,6 +478,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4260_ECCV_2022_paper.php
 - Code: https://github.com/erfect2020/DecompositionForFusion
 
+
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
 
@@ -492,9 +493,21 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow**
 - Paper: https://arxiv.org/abs/2208.09127
 
+**Learning Cross-Video Neural Representations for High-Quality Frame Interpolation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2565_ECCV_2022_paper.php
+
+**Deep Bayesian Video Frame Interpolation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1287_ECCV_2022_paper.php
+- Code: https://github.com/Oceanlib/DBVI
+
 **A Perceptual Quality Metric for Video Frame Interpolation**
 - Paper: https://arxiv.org/abs/2210.01879
 - Code: https://github.com/hqqxyy/VFIPS
+
+**DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting**
+- Paper: https://arxiv.org/abs/2111.09985
+- Code: https://github.com/JihyongOh/DeMFI
+- Tags: Joint Deblurring and Frame Interpolation
 
 <a name="STVSR"></a>
 ## Spatial-Temporal Video Super-Resolution
