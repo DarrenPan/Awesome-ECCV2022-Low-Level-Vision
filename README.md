@@ -531,6 +531,18 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.08080
 - Code: https://github.com/amberwangyili/neurop
 
+**Deep Fourier-Based Exposure Correction Network with Spatial-Frequency Interaction**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4678_ECCV_2022_paper.php
+- Tags: Exposure Correction
+
+**Uncertainty Inspired Underwater Image Enhancement**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3298_ECCV_2022_paper.php
+- Tags: Underwater Image Enhancement
+
+**NEST: Neural Event Stack for Event-Based Image Enhancement**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2730_ECCV_2022_paper.php
+- Tags: Event-Based
+
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
@@ -553,6 +565,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.04788
 - Code: https://github.com/rockeyben/DCCF
 
+**Semantic-Guided Multi-Mask Image Harmonization**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3151_ECCV_2022_paper.php
+- Code: https://github.com/XuqianRen/Semantic-guided-Multi-mask-Image-Harmonization
+
+**Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization**
+- Paper: https://arxiv.org/abs/2109.05750
+- Code: https://github.com/stefanLeong/S2CRNet
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
