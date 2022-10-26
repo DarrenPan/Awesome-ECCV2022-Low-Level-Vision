@@ -340,7 +340,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **TempFormer: Temporally Consistent Transformer for Video Denoising**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6092_ECCV_2022_paper.php
-
+- Tags: Transformer
 
 <a name="Deblurring"></a>
 # Deblurring - 去模糊
@@ -351,14 +351,31 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.05244
 - Code: https://github.com/dasongli1/Learning_degradation
 
+**Stripformer: Strip Transformer for Fast Image Deblurring**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4651_ECCV_2022_paper.php
+- Tags: Transformer
+
 **Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance**
 - Paper: https://arxiv.org/abs/2207.10123
 - Code: https://github.com/zzh-tech/Animation-from-Blur
 - Tags: recovering detailed motion from a single motion-blurred image
 
+**United Defocus Blur Detection and Deblurring via Adversarial Promoting Learning**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3308_ECCV_2022_paper.php
+- Code: https://github.com/wdzhao123/APL
+- Tags: Defocus Blur
+
+**Realistic Blur Synthesis for Learning Image Deblurring**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6325_ECCV_2022_paper.php
+- Tags: Blur Synthesis
+
 **Event-based Fusion for Motion Deblurring with Cross-modal Attention**
 - Paper:https://arxiv.org/abs/2112.00167
 - Code: https://github.com/AHupuJR/EFNet
+- Tags: Event-based
+
+**Event-Guided Deblurring of Unknown Exposure Time Videos**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3601_ECCV_2022_paper.php
 - Tags: Event-based
 
 <a name="VideoDeblurring"></a>
@@ -371,6 +388,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Efficient Video Deblurring Guided by Motion Magnitude**
 - Paper: https://arxiv.org/abs/2207.13374
 - Code: https://github.com/sollynoay/MMP-RNN
+
+**ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4085_ECCV_2022_paper.php
+- Code: https://github.com/TencentCloud/ERDN
 
 **DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting**
 - Paper: https://arxiv.org/abs/2111.09985
