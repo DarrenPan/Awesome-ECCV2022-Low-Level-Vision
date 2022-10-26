@@ -158,11 +158,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/SenseBrainTech/overexposure-mask-reverse-ISP
 - Tagss: [Workshop], Reversed ISP
 
-<!--
-<a name="BurstRestoration"></a>
-## Burst Restoration
--->
-
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
@@ -312,11 +307,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2209.12475
 - Code: https://github.com/zmzhang1998/Real-RawVSR
 
-<!--
-<a name="Rescaling"></a>
-# Image Rescaling - 图像缩放
 
--->
 <a name="Denoising"></a>
 # Denoising - 去噪
 
@@ -446,26 +437,28 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.09935
 - Code: https://github.com/XinYu-Andy/uhdm-page
 
-<!--
-<a name="Demosaicing"></a>
-# Demosaicing - 去马赛克
-
--->
 
  <a name="HDR"></a>
 # HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合
 
 **Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging**
-- Paper: 
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6250_ECCV_2022_paper.php
 - Code: https://github.com/viengiaan/EDWL
 
 **Ghost-free High Dynamic Range Imaging with Context-aware Transformer**
 - Paper: https://arxiv.org/abs/2208.05114
 - Code: https://github.com/megvii-research/HDR-Transformer
 
+**Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6670_ECCV_2022_paper.php
+
 **HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields**
 - Paper: https://arxiv.org/abs/2208.06787
 - Code: https://github.com/postech-ami/HDR-Plenoxels
+
+**Towards Real-World HDRTV Reconstruction: A Data Synthesis-Based Approach**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4873_ECCV_2022_paper.php
+
 
 <a name="Fusion"></a>
 # Image Fusion
@@ -474,7 +467,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2209.11277
 
 **Recurrent Correction Network for Fast and Efficient Multi-modality Image Fusion**
-- Paper:
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3864_ECCV_2022_paper.php
 - Code: https://github.com/MisakiCoca/ReCoNet
 
 **Neural Image Representations for Multi-Image Fusion and Layer Separation**
@@ -482,7 +475,7 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://shnnam.github.io/research/nir/
 
 **Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion**
-- Paper:
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4260_ECCV_2022_paper.php
 - Code: https://github.com/erfect2020/DecompositionForFusion
 
 <a name="FrameInterpolation"></a>
