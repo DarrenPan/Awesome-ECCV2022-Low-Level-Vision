@@ -63,11 +63,11 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 <!--
 - [Image Stitching](#Stitching)
 -->
-- [Relighting](#Relighting)
-
 - [Image Compression](#ImageCompression)
 
 - [Image Quality Assessment](#ImageQualityAssessment)
+
+- [Relighting](#Relighting)
 
 - [Style Transfer](#StyleTransfer)
 
@@ -690,18 +690,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5580_ECCV_2022_paper.php
 - Code: https://github.com/jinwan1994/SG-ShadowNet
 
-<a name="Relighting"></a>
-# Relighting/Delighting
-
-**Deep Portrait Delighting**
-- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4581_ECCV_2022_paper.php
-
-**Geometry-Aware Single-Image Full-Body Human Relighting**
-- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4385_ECCV_2022_paper.php
-
-**NeRF for Outdoor Scene Relighting**
-- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4998_ECCV_2022_paper.php
-
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
@@ -759,6 +747,22 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/hqqxyy/VFIPS
 
 
+<a name="Relighting"></a>
+# Relighting/Delighting
+
+**Deep Portrait Delighting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4581_ECCV_2022_paper.php
+
+**Geometry-Aware Single-Image Full-Body Human Relighting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4385_ECCV_2022_paper.php
+
+**NeRF for Outdoor Scene Relighting**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4998_ECCV_2022_paper.php
+
+**Physically-Based Editing of Indoor Scene Lighting from a Single Image**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1276_ECCV_2022_paper.php
+
+
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
 
@@ -776,6 +780,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **WISE: Whitebox Image Stylization by Example-based Learning**
 - Paper: https://arxiv.org/abs/2207.14606
 - Code: https://github.com/winfried-loetzsch/wise
+
+**Language-Driven Artistic Style Transfer**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6627_ECCV_2022_paper.php
+
+**MoDA: Map Style Transfer for Self-Supervised Domain Adaptation of Embodied Agents**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1762_ECCV_2022_paper.php
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
@@ -802,6 +812,29 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion**
 - Paper: https://arxiv.org/abs/2209.10811
+
+**Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
+- Paper: https://arxiv.org/abs/2208.07765
+- Code: https://github.com/Taeu/Style-Your-Hair
+
+**HairNet: Hairstyle Transfer with Pose Changes**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5227_ECCV_2022_paper.php
+
+**End-to-End Visual Editing with a Generatively Pre-trained Artist**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/841_ECCV_2022_paper.php
+
+**The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4736_ECCV_2022_paper.php
+
+**Scraping Textures from Natural Images for Synthesis and Editing**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2180_ECCV_2022_paper.php
+
+**VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/8048_ECCV_2022_paper.php
+
+**Editing Out-of-Domain GAN Inversion via Differential Activations**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5504_ECCV_2022_paper.php
+- Code: https://github.com/HaoruiSong622/Editing-Out-of-Domain
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
@@ -855,10 +888,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Unpaired Image Translation via Vector Symbolic Architectures**
 - Paper: https://arxiv.org/abs/2209.02686
 - Code: https://github.com/facebookresearch/vsait
-
-**Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**
-- Paper: https://arxiv.org/abs/2208.07765
-- Code: https://github.com/Taeu/Style-Your-Hair
 
 **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**
 - Paper: https://arxiv.org/abs/2207.14811
@@ -990,13 +1019,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.05312
 - Code: https://github.com/Kaiseem/QueryOTR
 - Tags: Outpainting
-
-**Geometry-aware Single-image Full-body Human Relighting**
-- Paper: https://arxiv.org/abs/2207.04750
-
-**NeRF for Outdoor Scene Relighting**
-- Paper: https://arxiv.org/abs/2112.05140
-- Code: https://github.com/r00tman/NeRF-OSR
 
 **Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal**
 - Paper: https://arxiv.org/abs/2207.08178
