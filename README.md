@@ -132,9 +132,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI
 - Tags: Hyperspectral Image Reconstruction
 
-**VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder**
-- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1617_ECCV_2022_paper.php
-
 **TAPE: Task-Agnostic Prior Embedding for Image Restoration**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3292_ECCV_2022_paper.php
 
