@@ -836,8 +836,21 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5504_ECCV_2022_paper.php
 - Code: https://github.com/HaoruiSong622/Editing-Out-of-Domain
 
+**ChunkyGAN: Real Image Inversion via Segments**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5092_ECCV_2022_paper.php
+
+**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**
+- Paper: https://arxiv.org/abs/2207.09840
+- Code: https://github.com/Chenyu-Yang-2000/EleGANt
+
+**FairStyle: Debiasing StyleGAN2 with Style Channel Manipulations**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7746_ECCV_2022_paper.php
+- Code: https://github.com/catlab-team/fairstyle
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
+
+## Text-to-Image / Text Guided / Multi-Modal
 
 **TIPS: Text-Induced Pose Synthesis**
 - Paper: https://arxiv.org/abs/2207.11718
@@ -850,6 +863,21 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Learning Visual Styles from Audio-Visual Associations**
 - Paper: https://arxiv.org/abs/2205.05072
 - Code: https://github.com/Tinglok/avstyle
+
+**Multimodal Conditional Image Synthesis with Product-of-Experts GANs**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3539_ECCV_2022_paper.php
+- Project: https://deepimagination.cc/PoE-GAN/
+
+**NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5422_ECCV_2022_paper.php
+
+**Make-a-Scene: Scene-Based Text-to-Image Generation with Human Priors**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/993_ECCV_2022_paper.php
+
+**Trace Controlled Text to Image Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1894_ECCV_2022_paper.php
+
+## Image-to-Image / Image Guided
 
 **End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement**
 - Paper: https://arxiv.org/abs/2207.13268
@@ -869,10 +897,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.00712
 - Code: https://github.com/xyzhouo/CASD
 
-**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**
-- Paper: https://arxiv.org/abs/2207.09840
-- Code: https://github.com/Chenyu-Yang-2000/EleGANt
-
 **Vector Quantized Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2207.13286
 - Code: https://github.com/cyj407/VQ-I2I
@@ -882,12 +906,24 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Code: https://github.com/Kaminyou/URUST
 
 **General Object Pose Transformation Network from Unpaired Data**
-- Paper:
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5972_ECCV_2022_paper.php
 - Code: https://github.com/suyukun666/UFO-PT
 
 **Unpaired Image Translation via Vector Symbolic Architectures**
 - Paper: https://arxiv.org/abs/2209.02686
 - Code: https://github.com/facebookresearch/vsait
+
+**Supervised Attribute Information Removal and Reconstruction for Image Manipulation**
+- Paper: https://arxiv.org/abs/2207.06555
+- Code: https://github.com/NannanLi999/AIRR
+
+**Bi-Level Feature Alignment for Versatile Image Translation and Manipulation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3912_ECCV_2022_paper.php
+
+**Multi-Curve Translator for High-Resolution Photorealistic Image Translation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1278_ECCV_2022_paper.php
+
+## Others for image generation
 
 **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**
 - Paper: https://arxiv.org/abs/2207.14811
@@ -916,10 +952,6 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **WaveGAN: An Frequency-aware GAN for High-Fidelity Few-shot Image Generation**
 - Paper: https://arxiv.org/abs/2207.07288
 - Code: https://github.com/kobeshegu/ECCV2022_WaveGAN
-
-**Supervised Attribute Information Removal and Reconstruction for Image Manipulation**
-- Paper: https://arxiv.org/abs/2207.06555
-- Code: https://github.com/NannanLi999/AIRR
 
 **FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**
 - Paper: https://arxiv.org/abs/2207.08630
@@ -964,7 +996,13 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2209.05968
 - Project: https://eadcat.github.io/WSSN
 
+**Any-Resolution Training for High-Resolution Image Synthesis**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3693_ECCV_2022_paper.php
+- Code: https://github.com/chail/anyres-gan
 
+**BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-Aided Adversarial Learning**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4327_ECCV_2022_paper.php
+- Code: https://github.com/chang9711/BIPS
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -992,6 +1030,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Motion Transformer for Unsupervised Image Animation**
 - Paper: 
 - Code: https://github.com/JialeTao/MoTrans
+
+**Sound-Guided Semantic Video Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5584_ECCV_2022_paper.php
+- Code: https://github.com/anonymous5584/sound-guided-semantic-video-generation
 
 <a name="Others"></a>
 # Others
