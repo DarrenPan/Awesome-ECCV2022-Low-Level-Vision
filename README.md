@@ -874,6 +874,12 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Trace Controlled Text to Image Generation**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1894_ECCV_2022_paper.php
 
+**Audio-Driven Stylized Gesture Generation with Flow-Based Model**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3948_ECCV_2022_paper.php
+
+**No Token Left Behind: Explainability-Aided Image Classification and Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2764_ECCV_2022_paper.php
+
 ## Image-to-Image / Image Guided
 
 **End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement**
@@ -919,6 +925,9 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **Multi-Curve Translator for High-Resolution Photorealistic Image Translation**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1278_ECCV_2022_paper.php
+
+**CoGS: Controllable Generation and Search from Sketch and Style**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5160_ECCV_2022_paper.php
 
 ## Others for image generation
 
@@ -1001,6 +1010,31 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4327_ECCV_2022_paper.php
 - Code: https://github.com/chang9711/BIPS
 
+**Few-Shot Image Generation with Mixup-Based Distance Learning**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2709_ECCV_2022_paper.php
+- Code: https://github.com/reyllama/mixdl
+
+**StyleGAN-Human: A Data-Centric Odyssey of Human Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3366_ECCV_2022_paper.php
+- Code: https://github.com/stylegan-human/StyleGAN-Human
+
+**StyleFace: Towards Identity-Disentangled Face Generation on Megapixels**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4255_ECCV_2022_paper.php
+
+**Contrastive Learning for Diverse Disentangled Foreground Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4323_ECCV_2022_paper.php
+
+**BLT: Bidirectional Layout Transformer for Controllable Layout Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7035_ECCV_2022_paper.php
+- Code: https://github.com/google-research/google-research/tree/master/layout-blt
+
+**Entropy-Driven Sampling and Training Scheme for Conditional Diffusion Generation**
+- Paper: https://arxiv.org/abs/2206.11474
+- Code: https://github.com/ZGCTroy/ED-DPM
+
+**Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5081_ECCV_2022_paper.php
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -1031,6 +1065,17 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Sound-Guided Semantic Video Generation**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5584_ECCV_2022_paper.php
 - Code: https://github.com/anonymous5584/sound-guided-semantic-video-generation
+
+**Layered Controllable Video Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4847_ECCV_2022_paper.php
+
+**Diverse Generation from a Single Video Made Possible**
+- Paper: https://arxiv.org/abs/2109.08591
+- Code: https://github.com/nivha/single_video_generation
+
+**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/631_ECCV_2022_paper.php
+- Code: https://github.com/alvinliu0/SSP-NeRF
 
 <a name="Others"></a>
 # Others
@@ -1082,6 +1127,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2207.11770
 - Code: https://github.com/sstzal/DFRF
 - Tags: Talking Head Synthesis
+
+**Responsive Listening Head Generation: A Benchmark Dataset and Baseline**
+- Paper: https://arxiv.org/abs/2112.13548 
+- Code: https://github.com/dc3ea9f/vico_challenge_baseline
 
 **Contrastive Monotonic Pixel-Level Modulation**
 - Paper: https://arxiv.org/abs/2207.11517
