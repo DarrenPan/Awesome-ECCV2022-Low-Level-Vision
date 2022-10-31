@@ -784,6 +784,19 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **MoDA: Map Style Transfer for Self-Supervised Domain Adaptation of Embodied Agents**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1762_ECCV_2022_paper.php
 
+**JoJoGAN: One Shot Face Stylization**
+- Paper: https://arxiv.org/abs/2112.11641
+- Code: https://github.com/mchong6/JoJoGAN
+
+**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**
+- Paper: https://arxiv.org/abs/2207.09840
+- Code: https://github.com/Chenyu-Yang-2000/EleGANt
+- Tags: Makeup Transfer
+
+**RamGAN: Region Attentive Morphing GAN for Region-Level Makeup Transfer**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/803_ECCV_2022_paper.php
+- Tags: Makeup Transfer
+
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
@@ -836,13 +849,16 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **ChunkyGAN: Real Image Inversion via Segments**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5092_ECCV_2022_paper.php
 
-**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**
-- Paper: https://arxiv.org/abs/2207.09840
-- Code: https://github.com/Chenyu-Yang-2000/EleGANt
-
 **FairStyle: Debiasing StyleGAN2 with Style Channel Manipulations**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7746_ECCV_2022_paper.php
 - Code: https://github.com/catlab-team/fairstyle
+
+**A Style-Based GAN Encoder for High Fidelity Reconstruction of Images and Videos**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2740_ECCV_2022_paper.php
+- Code: https://github.com/InterDigitalInc/FeatureStyleEncoder
+
+**Rayleigh EigenDirections (REDs): Nonlinear GAN latent space traversals for multidimensional features**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7277_ECCV_2022_paper.php
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
@@ -928,6 +944,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 
 **CoGS: Controllable Generation and Search from Sketch and Style**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5160_ECCV_2022_paper.php
+
+**AgeTransGAN for Facial Age Transformation with Rectified Performance Metrics**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1344_ECCV_2022_paper.php
+- Code: https://github.com/AvLab-CV/AgeTransGAN
 
 ## Others for image generation
 
@@ -1035,6 +1055,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5081_ECCV_2022_paper.php
 
+**DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7143_ECCV_2022_paper.php
+- Code: https://github.com/UCSC-REAL/DuelGAN
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -1076,6 +1100,14 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 **Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/631_ECCV_2022_paper.php
 - Code: https://github.com/alvinliu0/SSP-NeRF
+
+**EAGAN: Efficient Two-Stage Evolutionary Architecture Search for GANs**
+ - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3419_ECCV_2022_paper.php
+ - Code: https://github.com/marsggbo/EAGAN
+
+**BlobGAN: Spatially Disentangled Scene Representations**
+- Paper: https://arxiv.org/abs/2205.02837 
+- Code: https://github.com/dave-epstein/blobgan
 
 <a name="Others"></a>
 # Others
@@ -1162,12 +1194,21 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Tags: Face Swapping
 
 **Geometric Representation Learning for Document Image Rectification**
-- Paper: 
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1698_ECCV_2022_paper.php
 - Code: https://github.com/fh2019ustc/DocGeoNet
 - Tags: Document Image Rectification
 
+**Studying Bias in GANs through the Lens of Race**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2581_ECCV_2022_paper.php
+- Tags: Racial Bias
 
+**On the Robustness of Quality Measures for GANs**
+- Paper: https://arxiv.org/abs/2201.13019
+- Code: https://github.com/MotasemAlfarra/R-FID-Robustness-of-Quality-Measures-for-GANs
 
+**TREND: Truncated Generalized Normal Density Estimation of Inception Embeddings for GAN Evaluation**
+- Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3604_ECCV_2022_paper.php
+- Tags: GAN Evaluation
 
 <!--
 ****
