@@ -1210,6 +1210,10 @@ A Collection of Papers and Codes in ECCV2022 related to Low-Level Vision
 - Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3604_ECCV_2022_paper.php
 - Tags: GAN Evaluation
 
+**Hallucinating Pose-Compatible Scenes**
+- Paper: https://arxiv.org/abs/2112.06909
+- Code: https://github.com/timothybrooks/hallucinating-scenes
+
 <!--
 ****
 - Paper: 
